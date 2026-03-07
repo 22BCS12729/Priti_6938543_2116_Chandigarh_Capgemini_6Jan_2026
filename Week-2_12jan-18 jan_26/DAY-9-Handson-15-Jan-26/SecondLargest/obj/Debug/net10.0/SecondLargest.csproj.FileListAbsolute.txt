@@ -1,0 +1,4 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SecondLargest\obj\Debug\net10.0\SecondLargest.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SecondLargest\obj\Debug\net10.0\SecondLargest.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SecondLargest\obj\Debug\net10.0\SecondLargest.csproj.CoreCompileInputs.cache

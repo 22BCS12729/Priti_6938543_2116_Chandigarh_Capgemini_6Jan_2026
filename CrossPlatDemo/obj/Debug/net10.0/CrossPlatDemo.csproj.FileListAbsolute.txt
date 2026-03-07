@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\bin\Debug\net10.0\CrossPlatDemo.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\bin\Debug\net10.0\CrossPlatDemo.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\bin\Debug\net10.0\CrossPlatDemo.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\bin\Debug\net10.0\CrossPlatDemo.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\bin\Debug\net10.0\CrossPlatDemo.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\refint\CrossPlatDemo.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\CrossPlatDemo.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\CrossPlatDemo\obj\Debug\net10.0\ref\CrossPlatDemo.dll

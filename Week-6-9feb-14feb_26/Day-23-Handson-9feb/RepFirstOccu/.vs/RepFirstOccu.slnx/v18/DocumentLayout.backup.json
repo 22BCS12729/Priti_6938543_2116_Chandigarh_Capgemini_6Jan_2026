@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RepFirstOccu\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC61EA9-DF70-4EBF-96E6-46645F350E17}|RepFirstOccu\\RepFirstOccu.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\repfirstoccu\\repfirstoccu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC61EA9-DF70-4EBF-96E6-46645F350E17}|RepFirstOccu\\RepFirstOccu.csproj|solutionrelative:repfirstoccu\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EFC61EA9-DF70-4EBF-96E6-46645F350E17}|RepFirstOccu\\RepFirstOccu.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\repfirstoccu\\repfirstoccu\\repfirstoccurence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EFC61EA9-DF70-4EBF-96E6-46645F350E17}|RepFirstOccu\\RepFirstOccu.csproj|solutionrelative:repfirstoccu\\repfirstoccurence.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "RepFirstOccurence.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RepFirstOccu\\RepFirstOccu\\RepFirstOccurence.cs",
+              "RelativeDocumentMoniker": "RepFirstOccu\\RepFirstOccurence.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RepFirstOccu\\RepFirstOccu\\RepFirstOccurence.cs*",
+              "RelativeToolTip": "RepFirstOccu\\RepFirstOccurence.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAkAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:00:01.593Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RepFirstOccu\\RepFirstOccu\\Program.cs",
+              "RelativeDocumentMoniker": "RepFirstOccu\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RepFirstOccu\\RepFirstOccu\\Program.cs*",
+              "RelativeToolTip": "RepFirstOccu\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:59:01.115Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

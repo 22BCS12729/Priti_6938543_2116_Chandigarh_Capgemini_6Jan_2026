@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\bin\Debug\net10.0\RemNegElements.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\bin\Debug\net10.0\RemNegElements.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\bin\Debug\net10.0\RemNegElements.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\bin\Debug\net10.0\RemNegElements.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\bin\Debug\net10.0\RemNegElements.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\refint\RemNegElements.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\RemNegElements.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\RemNegElements\obj\Debug\net10.0\ref\RemNegElements.dll

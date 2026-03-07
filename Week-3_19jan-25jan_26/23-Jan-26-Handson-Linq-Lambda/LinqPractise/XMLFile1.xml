@@ -1,0 +1,18 @@
+﻿<?xml version="1.0" encoding="utf-8" ?>
+<Students>
+  <Student>
+    <Id>1</Id>
+    <Name>Priti</Name>
+    <Marks>85</Marks>
+  </Student>
+  <Student>
+    <Id>2</Id>
+    <Name>Riya</Name>
+    <Marks>65</Marks>
+  </Student>
+  <Student>
+    <Id>3</Id>
+    <Name>Neha</Name>
+    <Marks>90</Marks>
+  </Student>
+</Students>

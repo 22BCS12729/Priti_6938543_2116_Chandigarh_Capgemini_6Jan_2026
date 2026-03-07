@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\bin\Debug\net10.0\PartitionAlphaNumericValue.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\bin\Debug\net10.0\PartitionAlphaNumericValue.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\bin\Debug\net10.0\PartitionAlphaNumericValue.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\bin\Debug\net10.0\PartitionAlphaNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\bin\Debug\net10.0\PartitionAlphaNumericValue.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\refint\PartitionAlphaNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\PartitionAlphaNumericValue.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\PartitionAlphaNumericValue\PartitionAlphaNumericValue\obj\Debug\net10.0\ref\PartitionAlphaNumericValue.dll

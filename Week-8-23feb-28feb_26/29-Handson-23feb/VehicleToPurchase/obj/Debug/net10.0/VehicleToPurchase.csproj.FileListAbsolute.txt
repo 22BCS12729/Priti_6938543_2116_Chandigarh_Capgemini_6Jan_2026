@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\bin\Debug\net10.0\VehicleToPurchase.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\bin\Debug\net10.0\VehicleToPurchase.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\bin\Debug\net10.0\VehicleToPurchase.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\bin\Debug\net10.0\VehicleToPurchase.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\bin\Debug\net10.0\VehicleToPurchase.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\refint\VehicleToPurchase.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\VehicleToPurchase.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\VehicleToPurchase\obj\Debug\net10.0\ref\VehicleToPurchase.dll

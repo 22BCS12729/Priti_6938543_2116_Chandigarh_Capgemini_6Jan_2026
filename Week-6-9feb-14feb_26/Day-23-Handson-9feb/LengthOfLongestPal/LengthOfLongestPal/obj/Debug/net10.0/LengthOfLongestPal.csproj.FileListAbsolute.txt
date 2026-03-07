@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\bin\Debug\net10.0\LengthOfLongestPal.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\bin\Debug\net10.0\LengthOfLongestPal.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\bin\Debug\net10.0\LengthOfLongestPal.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\bin\Debug\net10.0\LengthOfLongestPal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\bin\Debug\net10.0\LengthOfLongestPal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\refint\LengthOfLongestPal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\LengthOfLongestPal.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\LengthOfLongestPal\LengthOfLongestPal\obj\Debug\net10.0\ref\LengthOfLongestPal.dll

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\bin\Debug\net10.0\MaxDeletion.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\bin\Debug\net10.0\MaxDeletion.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\bin\Debug\net10.0\MaxDeletion.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\bin\Debug\net10.0\MaxDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\bin\Debug\net10.0\MaxDeletion.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\refint\MaxDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\MaxDeletion.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\MaxDeletion\MaxDeletion\obj\Debug\net10.0\ref\MaxDeletion.dll

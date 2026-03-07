@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\DealersCB\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{545E2C22-39F0-4A05-BD0C-DA1E0502AF7C}|DealersCB.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\28-handson-19feb-26\\mock session ques\\dealerscb\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545E2C22-39F0-4A05-BD0C-DA1E0502AF7C}|DealersCB.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{545E2C22-39F0-4A05-BD0C-DA1E0502AF7C}|DealersCB.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\28-handson-19feb-26\\mock session ques\\dealerscb\\carbikedealers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{545E2C22-39F0-4A05-BD0C-DA1E0502AF7C}|DealersCB.csproj|solutionrelative:carbikedealers.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CarBikeDealers.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\DealersCB\\CarBikeDealers.cs",
+              "RelativeDocumentMoniker": "CarBikeDealers.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\DealersCB\\CarBikeDealers.cs",
+              "RelativeToolTip": "CarBikeDealers.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:35:36.473Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\DealersCB\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\DealersCB\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T06:34:21.331Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\TeamStrength\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44EA3C38-FF4D-4832-8F0B-E1CB47BFE79A}|TeamStrength\\TeamStrength.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\teamstrength\\teamstrength\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EA3C38-FF4D-4832-8F0B-E1CB47BFE79A}|TeamStrength\\TeamStrength.csproj|solutionrelative:teamstrength\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44EA3C38-FF4D-4832-8F0B-E1CB47BFE79A}|TeamStrength\\TeamStrength.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\teamstrength\\teamstrength\\maxskillinteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44EA3C38-FF4D-4832-8F0B-E1CB47BFE79A}|TeamStrength\\TeamStrength.csproj|solutionrelative:teamstrength\\maxskillinteam.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxSkillInTeam.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\TeamStrength\\TeamStrength\\MaxSkillInTeam.cs",
+              "RelativeDocumentMoniker": "TeamStrength\\MaxSkillInTeam.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\TeamStrength\\TeamStrength\\MaxSkillInTeam.cs*",
+              "RelativeToolTip": "TeamStrength\\MaxSkillInTeam.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:21:02.239Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\TeamStrength\\TeamStrength\\Program.cs",
+              "RelativeDocumentMoniker": "TeamStrength\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\TeamStrength\\TeamStrength\\Program.cs*",
+              "RelativeToolTip": "TeamStrength\\Program.cs*",
+              "ViewState": "AgIAABIAAAAAAAAAAAAUwB0AAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T02:20:40.883Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

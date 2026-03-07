@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\bin\Debug\net10.0\RemoveARrray.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\bin\Debug\net10.0\RemoveARrray.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\bin\Debug\net10.0\RemoveARrray.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\bin\Debug\net10.0\RemoveARrray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\bin\Debug\net10.0\RemoveARrray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\refint\RemoveARrray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\RemoveARrray.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-5-Handson-10 jan-26\RemoveARrray\obj\Debug\net10.0\ref\RemoveARrray.dll

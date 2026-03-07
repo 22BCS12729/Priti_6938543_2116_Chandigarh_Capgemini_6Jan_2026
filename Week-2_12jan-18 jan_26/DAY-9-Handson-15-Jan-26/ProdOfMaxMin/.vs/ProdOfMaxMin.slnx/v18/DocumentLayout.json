@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ProdOfMaxMin\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A00EDD37-4024-4128-9C64-23B23E494323}|ProdOfMaxMin.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\prodofmaxmin\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00EDD37-4024-4128-9C64-23B23E494323}|ProdOfMaxMin.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A00EDD37-4024-4128-9C64-23B23E494323}|ProdOfMaxMin.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\prodofmaxmin\\prodofmaxmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A00EDD37-4024-4128-9C64-23B23E494323}|ProdOfMaxMin.csproj|solutionrelative:prodofmaxmin.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ProdOfMaxMin.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ProdOfMaxMin\\ProdOfMaxMin.cs",
+              "RelativeDocumentMoniker": "ProdOfMaxMin.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ProdOfMaxMin\\ProdOfMaxMin.cs",
+              "RelativeToolTip": "ProdOfMaxMin.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAgAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:29:36.582Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ProdOfMaxMin\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ProdOfMaxMin\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAzwBMAAAAvAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-15T17:29:14.158Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

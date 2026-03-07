@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\bin\Debug\net10.0\ConsoleApp1.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\refint\ConsoleApp1.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ConsoleApp1.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan26\ConsoleApp\ConsoleApp1\obj\Debug\net10.0\ref\ConsoleApp1.dll

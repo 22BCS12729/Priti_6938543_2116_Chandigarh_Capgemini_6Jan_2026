@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\AnagramCheck\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F38AEBA6-3966-41B9-80F7-F198904FD6B5}|AnagramCheck.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\27-jan-handson\\anagramcheck\\anagramcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38AEBA6-3966-41B9-80F7-F198904FD6B5}|AnagramCheck.csproj|solutionrelative:anagramcheck.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F38AEBA6-3966-41B9-80F7-F198904FD6B5}|AnagramCheck.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\27-jan-handson\\anagramcheck\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F38AEBA6-3966-41B9-80F7-F198904FD6B5}|AnagramCheck.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "AnagramCheck.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\AnagramCheck\\AnagramCheck.cs",
+              "RelativeDocumentMoniker": "AnagramCheck.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\AnagramCheck\\AnagramCheck.cs",
+              "RelativeToolTip": "AnagramCheck.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAAAkAAAAVAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:15:16.983Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\AnagramCheck\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\AnagramCheck\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAMAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-27T07:13:56.11Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

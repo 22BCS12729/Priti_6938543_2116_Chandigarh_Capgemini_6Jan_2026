@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\bin\Debug\net10.0\ReverseArray.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\bin\Debug\net10.0\ReverseArray.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\bin\Debug\net10.0\ReverseArray.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\bin\Debug\net10.0\ReverseArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\bin\Debug\net10.0\ReverseArray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\refint\ReverseArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ReverseArray.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReverseArray\ReverseArray\obj\Debug\net10.0\ref\ReverseArray.dll

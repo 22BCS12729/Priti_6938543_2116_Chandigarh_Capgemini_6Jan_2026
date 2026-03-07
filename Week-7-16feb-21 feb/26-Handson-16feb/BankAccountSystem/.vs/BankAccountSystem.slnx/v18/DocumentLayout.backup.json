@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankAccountSystem\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A43571-8112-4895-B78A-9B1376E19808}|..\\BankTesting\\BankTesting.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\banktesting\\bankaccounts.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D1A43571-8112-4895-B78A-9B1376E19808}|..\\BankTesting\\BankTesting.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\banktesting\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ED26B2-25F1-4ABC-AADF-6953D139F3DB}|BankAccountSystem.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\bankaccountsystem\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ED26B2-25F1-4ABC-AADF-6953D139F3DB}|BankAccountSystem.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{13ED26B2-25F1-4ABC-AADF-6953D139F3DB}|BankAccountSystem.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\bankaccountsystem\\bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{13ED26B2-25F1-4ABC-AADF-6953D139F3DB}|BankAccountSystem.csproj|solutionrelative:bankaccount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "BankAccounts.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankTesting\\BankAccounts.cs",
+              "RelativeDocumentMoniker": "..\\BankTesting\\BankAccounts.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankTesting\\BankAccounts.cs",
+              "RelativeToolTip": "..\\BankTesting\\BankAccounts.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAqwC0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:15:55.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankTesting\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\BankTesting\\UnitTest1.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankTesting\\UnitTest1.cs",
+              "RelativeToolTip": "..\\BankTesting\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:13:53.726Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BankAccount.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankAccountSystem\\BankAccount.cs",
+              "RelativeDocumentMoniker": "BankAccount.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankAccountSystem\\BankAccount.cs",
+              "RelativeToolTip": "BankAccount.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAB4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:08:41.488Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankAccountSystem\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\BankAccountSystem\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T07:07:14.873Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

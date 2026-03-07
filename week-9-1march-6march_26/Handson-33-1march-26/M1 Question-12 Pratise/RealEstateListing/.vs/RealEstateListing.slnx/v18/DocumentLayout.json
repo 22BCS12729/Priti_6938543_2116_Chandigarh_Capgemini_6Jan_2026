@@ -1,0 +1,37 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-9-1march-6march_26\\Handson-33-1march-26\\M1 Question-12 Pratise\\RealEstateListing\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9C735133-8B68-4F5F-BCAC-1C3CAFC6FAB4}|RealEstateListing.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-9-1march-6march_26\\handson-33-1march-26\\m1 question-12 pratise\\realestatelisting\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9C735133-8B68-4F5F-BCAC-1C3CAFC6FAB4}|RealEstateListing.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-9-1march-6march_26\\Handson-33-1march-26\\M1 Question-12 Pratise\\RealEstateListing\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-9-1march-6march_26\\Handson-33-1march-26\\M1 Question-12 Pratise\\RealEstateListing\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA8AAAAAAAAAAAAowBAAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-05T04:19:23.768Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\bin\Debug\net10.0\CountVolwels.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\bin\Debug\net10.0\CountVolwels.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\bin\Debug\net10.0\CountVolwels.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\bin\Debug\net10.0\CountVolwels.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\bin\Debug\net10.0\CountVolwels.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\refint\CountVolwels.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\CountVolwels.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\CountVolwels\obj\Debug\net10.0\ref\CountVolwels.dll

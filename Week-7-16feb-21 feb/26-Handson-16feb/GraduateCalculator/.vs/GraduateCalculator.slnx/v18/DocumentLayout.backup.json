@@ -1,0 +1,86 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GraduateCalculator\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BB8E1-A76E-41D3-9200-7751515A04A2}|..\\GradeCalculatorApp.Tests\\GradeCalculatorApp.Tests.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\gradecalculatorapp.tests\\gradecalculatortests.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3B8BB8E1-A76E-41D3-9200-7751515A04A2}|..\\GradeCalculatorApp.Tests\\GradeCalculatorApp.Tests.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\gradecalculatorapp.tests\\unittest1.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D165C1-9F8E-4F4E-9C9B-AAEC5BF4F9AB}|GraduateCalculator.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\graduatecalculator\\gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D165C1-9F8E-4F4E-9C9B-AAEC5BF4F9AB}|GraduateCalculator.csproj|solutionrelative:gradecalculator.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{31D165C1-9F8E-4F4E-9C9B-AAEC5BF4F9AB}|GraduateCalculator.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\graduatecalculator\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{31D165C1-9F8E-4F4E-9C9B-AAEC5BF4F9AB}|GraduateCalculator.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "GradeCalculatorTests.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GradeCalculatorApp.Tests\\GradeCalculatorTests.cs",
+              "RelativeDocumentMoniker": "..\\GradeCalculatorApp.Tests\\GradeCalculatorTests.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GradeCalculatorApp.Tests\\GradeCalculatorTests.cs",
+              "RelativeToolTip": "..\\GradeCalculatorApp.Tests\\GradeCalculatorTests.cs",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:19:26.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "UnitTest1.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GradeCalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeDocumentMoniker": "..\\GradeCalculatorApp.Tests\\UnitTest1.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GradeCalculatorApp.Tests\\UnitTest1.cs",
+              "RelativeToolTip": "..\\GradeCalculatorApp.Tests\\UnitTest1.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:18:03.887Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "GradeCalculator.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GraduateCalculator\\GradeCalculator.cs",
+              "RelativeDocumentMoniker": "GradeCalculator.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GraduateCalculator\\GradeCalculator.cs",
+              "RelativeToolTip": "GradeCalculator.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:12:19.411Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GraduateCalculator\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\GraduateCalculator\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwAgAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:09:30.007Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

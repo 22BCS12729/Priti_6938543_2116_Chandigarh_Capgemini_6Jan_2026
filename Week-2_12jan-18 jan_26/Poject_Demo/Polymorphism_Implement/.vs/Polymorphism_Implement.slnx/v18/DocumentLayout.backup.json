@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\poject_demo\\polymorphism_implement\\polymorphismlibraryproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|solutionrelative:polymorphismlibraryproj.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\poject_demo\\polymorphism_implement\\polymorphism_implement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|solutionrelative:polymorphism_implement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\poject_demo\\polymorphism_implement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{D9E7F23D-AA1A-4F2C-A34F-4E9FD3D40D1F}|Polymorphism_Implement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "PolymorphismLibraryProj.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\PolymorphismLibraryProj.cs",
+              "RelativeDocumentMoniker": "PolymorphismLibraryProj.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\PolymorphismLibraryProj.cs*",
+              "RelativeToolTip": "PolymorphismLibraryProj.cs*",
+              "ViewState": "AgIAACcAAAAAAAAAAAAYwEgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T06:08:38.689Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Polymorphism_Implement",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\Polymorphism_Implement.csproj",
+              "RelativeDocumentMoniker": "Polymorphism_Implement.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\Polymorphism_Implement.csproj",
+              "RelativeToolTip": "Polymorphism_Implement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-14T06:12:48.783Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\Poject_Demo\\Polymorphism_Implement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-14T05:57:56.94Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\CountFreq\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{397DD4DF-86F3-4EB7-A333-2A97A2A64014}|CountFreq\\CountFreq.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\countfreq\\countfreq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397DD4DF-86F3-4EB7-A333-2A97A2A64014}|CountFreq\\CountFreq.csproj|solutionrelative:countfreq\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{397DD4DF-86F3-4EB7-A333-2A97A2A64014}|CountFreq\\CountFreq.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\countfreq\\countfreq\\countfreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{397DD4DF-86F3-4EB7-A333-2A97A2A64014}|CountFreq\\CountFreq.csproj|solutionrelative:countfreq\\countfreq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountFreq.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\CountFreq\\CountFreq\\CountFreq.cs",
+              "RelativeDocumentMoniker": "CountFreq\\CountFreq.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\CountFreq\\CountFreq\\CountFreq.cs*",
+              "RelativeToolTip": "CountFreq\\CountFreq.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:21:30.098Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\CountFreq\\CountFreq\\Program.cs",
+              "RelativeDocumentMoniker": "CountFreq\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\CountFreq\\CountFreq\\Program.cs*",
+              "RelativeToolTip": "CountFreq\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAAWAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:21:04.366Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\bin\Debug\net10.0\RemoveDuplicates.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\refint\RemoveDuplicates.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\RemoveDuplicates.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RemoveDuplicates\RemoveDuplicates\obj\Debug\net10.0\ref\RemoveDuplicates.dll

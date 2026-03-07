@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\bin\Debug\net10.0\CountTriplets.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\bin\Debug\net10.0\CountTriplets.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\bin\Debug\net10.0\CountTriplets.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\bin\Debug\net10.0\CountTriplets.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\bin\Debug\net10.0\CountTriplets.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\refint\CountTriplets.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\CountTriplets.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountTriplets\CountTriplets\obj\Debug\net10.0\ref\CountTriplets.dll

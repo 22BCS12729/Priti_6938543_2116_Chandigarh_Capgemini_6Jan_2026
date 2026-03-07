@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\AvgEvenOdd\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF8BC6-255F-C668-FEDA-11D4E8A84347}|AvgEvenOdd.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\avgevenodd\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF8BC6-255F-C668-FEDA-11D4E8A84347}|AvgEvenOdd.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{44CF8BC6-255F-C668-FEDA-11D4E8A84347}|AvgEvenOdd.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\avgevenodd\\evenoddavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{44CF8BC6-255F-C668-FEDA-11D4E8A84347}|AvgEvenOdd.csproj|solutionrelative:evenoddavg.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "EvenOddAvg.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\AvgEvenOdd\\EvenOddAvg.cs",
+              "RelativeDocumentMoniker": "EvenOddAvg.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\AvgEvenOdd\\EvenOddAvg.cs",
+              "RelativeToolTip": "EvenOddAvg.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:13:12.127Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\AvgEvenOdd\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\AvgEvenOdd\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAQAAAAAAAAAAAAYwA8AAAA3AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-17T06:56:10.057Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

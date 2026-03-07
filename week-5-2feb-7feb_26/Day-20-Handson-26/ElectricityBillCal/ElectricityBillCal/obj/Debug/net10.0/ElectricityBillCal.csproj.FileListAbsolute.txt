@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\bin\Debug\net10.0\ElectricityBillCal.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\bin\Debug\net10.0\ElectricityBillCal.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\bin\Debug\net10.0\ElectricityBillCal.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\bin\Debug\net10.0\ElectricityBillCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\bin\Debug\net10.0\ElectricityBillCal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\refint\ElectricityBillCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ElectricityBillCal.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\ElectricityBillCal\ElectricityBillCal\obj\Debug\net10.0\ref\ElectricityBillCal.dll

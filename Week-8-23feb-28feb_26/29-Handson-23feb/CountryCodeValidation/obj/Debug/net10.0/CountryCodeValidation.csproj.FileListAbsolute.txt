@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\bin\Debug\net10.0\CountryCodeValidation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\bin\Debug\net10.0\CountryCodeValidation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\bin\Debug\net10.0\CountryCodeValidation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\bin\Debug\net10.0\CountryCodeValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\bin\Debug\net10.0\CountryCodeValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\refint\CountryCodeValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\CountryCodeValidation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\CountryCodeValidation\obj\Debug\net10.0\ref\CountryCodeValidation.dll

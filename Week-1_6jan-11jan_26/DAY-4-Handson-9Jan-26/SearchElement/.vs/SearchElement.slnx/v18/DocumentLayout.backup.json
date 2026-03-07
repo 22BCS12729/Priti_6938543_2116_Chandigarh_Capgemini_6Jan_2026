@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\searchelement\\searchelementarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|solutionrelative:searchelementarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\searchelement\\searchelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|solutionrelative:searchelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\searchelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0BEEEECA-7169-45CD-B967-893AB9824149}|SearchElement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearchElement",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\SearchElement.csproj",
+              "RelativeDocumentMoniker": "SearchElement.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\SearchElement.csproj",
+              "RelativeToolTip": "SearchElement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T13:58:42.739Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchElementArray.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\SearchElementArray.cs",
+              "RelativeDocumentMoniker": "SearchElementArray.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\SearchElementArray.cs*",
+              "RelativeToolTip": "SearchElementArray.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:53:08.765Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\SearchElement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:51:41.283Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

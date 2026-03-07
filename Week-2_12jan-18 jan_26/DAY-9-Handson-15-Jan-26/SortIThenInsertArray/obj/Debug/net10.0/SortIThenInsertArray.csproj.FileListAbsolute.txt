@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\bin\Debug\net10.0\SortIThenInsertArray.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\bin\Debug\net10.0\SortIThenInsertArray.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\bin\Debug\net10.0\SortIThenInsertArray.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\bin\Debug\net10.0\SortIThenInsertArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\bin\Debug\net10.0\SortIThenInsertArray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\refint\SortIThenInsertArray.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\SortIThenInsertArray.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\SortIThenInsertArray\obj\Debug\net10.0\ref\SortIThenInsertArray.dll

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\bin\Debug\net10.0\TwosumProblm.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\bin\Debug\net10.0\TwosumProblm.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\bin\Debug\net10.0\TwosumProblm.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\bin\Debug\net10.0\TwosumProblm.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\bin\Debug\net10.0\TwosumProblm.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\refint\TwosumProblm.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\TwosumProblm.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-21-Handson-26\M1Ques -Practice\TwosumProblm\TwosumProblm\obj\Debug\net10.0\ref\TwosumProblm.dll

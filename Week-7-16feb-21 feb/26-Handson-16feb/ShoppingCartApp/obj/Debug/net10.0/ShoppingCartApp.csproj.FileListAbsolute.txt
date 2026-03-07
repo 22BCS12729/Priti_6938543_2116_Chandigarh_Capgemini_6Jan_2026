@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\bin\Debug\net10.0\ShoppingCartApp.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\bin\Debug\net10.0\ShoppingCartApp.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\bin\Debug\net10.0\ShoppingCartApp.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\bin\Debug\net10.0\ShoppingCartApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\bin\Debug\net10.0\ShoppingCartApp.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\refint\ShoppingCartApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ShoppingCartApp.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\ShoppingCartApp\obj\Debug\net10.0\ref\ShoppingCartApp.dll

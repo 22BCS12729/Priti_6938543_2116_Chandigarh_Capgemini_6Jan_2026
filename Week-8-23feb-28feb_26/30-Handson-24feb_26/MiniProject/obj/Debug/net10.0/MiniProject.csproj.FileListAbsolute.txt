@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\bin\Debug\net10.0\MiniProject.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\bin\Debug\net10.0\MiniProject.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\bin\Debug\net10.0\MiniProject.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\bin\Debug\net10.0\MiniProject.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\bin\Debug\net10.0\MiniProject.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\refint\MiniProject.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\MiniProject.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\30-Handson-24feb_26\MiniProject\obj\Debug\net10.0\ref\MiniProject.dll

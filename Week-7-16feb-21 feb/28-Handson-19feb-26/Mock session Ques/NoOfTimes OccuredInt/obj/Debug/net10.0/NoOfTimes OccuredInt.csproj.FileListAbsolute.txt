@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\bin\Debug\net10.0\NoOfTimes OccuredInt.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\bin\Debug\net10.0\NoOfTimes OccuredInt.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\bin\Debug\net10.0\NoOfTimes OccuredInt.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\bin\Debug\net10.0\NoOfTimes OccuredInt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\bin\Debug\net10.0\NoOfTimes OccuredInt.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\refint\NoOfTimes OccuredInt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\NoOfTimes OccuredInt.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\28-Handson-19feb-26\Mock session Ques\NoOfTimes OccuredInt\obj\Debug\net10.0\ref\NoOfTimes OccuredInt.dll

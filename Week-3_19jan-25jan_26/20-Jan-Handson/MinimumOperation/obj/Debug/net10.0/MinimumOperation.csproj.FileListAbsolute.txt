@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\bin\Debug\net10.0\MinimumOperation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\bin\Debug\net10.0\MinimumOperation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\bin\Debug\net10.0\MinimumOperation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\bin\Debug\net10.0\MinimumOperation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\bin\Debug\net10.0\MinimumOperation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\refint\MinimumOperation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\MinimumOperation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\MinimumOperation\obj\Debug\net10.0\ref\MinimumOperation.dll

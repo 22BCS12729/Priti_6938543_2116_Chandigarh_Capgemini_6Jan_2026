@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\PasswordValidate\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEA745-3357-42F3-9F1F-0717A36B30BD}|PasswordValidate\\PasswordValidate.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-18-30jan-26\\passwordvalidate\\passwordvalidate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CEA745-3357-42F3-9F1F-0717A36B30BD}|PasswordValidate\\PasswordValidate.csproj|solutionrelative:passwordvalidate\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{26CEA745-3357-42F3-9F1F-0717A36B30BD}|PasswordValidate\\PasswordValidate.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-18-30jan-26\\passwordvalidate\\passwordvalidate\\passvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{26CEA745-3357-42F3-9F1F-0717A36B30BD}|PasswordValidate\\PasswordValidate.csproj|solutionrelative:passwordvalidate\\passvalidate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "PassValidate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\PasswordValidate\\PasswordValidate\\PassValidate.cs",
+              "RelativeDocumentMoniker": "PasswordValidate\\PassValidate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\PasswordValidate\\PasswordValidate\\PassValidate.cs",
+              "RelativeToolTip": "PasswordValidate\\PassValidate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T17:37:23.122Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\PasswordValidate\\PasswordValidate\\Program.cs",
+              "RelativeDocumentMoniker": "PasswordValidate\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\PasswordValidate\\PasswordValidate\\Program.cs",
+              "RelativeToolTip": "PasswordValidate\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-01T17:36:26.111Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

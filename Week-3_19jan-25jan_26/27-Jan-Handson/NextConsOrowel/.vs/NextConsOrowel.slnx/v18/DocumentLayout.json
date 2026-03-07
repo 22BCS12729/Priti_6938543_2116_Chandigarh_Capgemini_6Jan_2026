@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\NextConsOrowel\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4425315C-080D-4BB2-B8AF-EB4BF2F35E89}|NextConsOrowel\\NextConsOrowel.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\27-jan-handson\\nextconsorowel\\nextconsorowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4425315C-080D-4BB2-B8AF-EB4BF2F35E89}|NextConsOrowel\\NextConsOrowel.csproj|solutionrelative:nextconsorowel\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4425315C-080D-4BB2-B8AF-EB4BF2F35E89}|NextConsOrowel\\NextConsOrowel.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\27-jan-handson\\nextconsorowel\\nextconsorowel\\nextconstovowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4425315C-080D-4BB2-B8AF-EB4BF2F35E89}|NextConsOrowel\\NextConsOrowel.csproj|solutionrelative:nextconsorowel\\nextconstovowel.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "NextConsToVowel.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\NextConsOrowel\\NextConsOrowel\\NextConsToVowel.cs",
+              "RelativeDocumentMoniker": "NextConsOrowel\\NextConsToVowel.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\NextConsOrowel\\NextConsOrowel\\NextConsToVowel.cs",
+              "RelativeToolTip": "NextConsOrowel\\NextConsToVowel.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:45:57.856Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\NextConsOrowel\\NextConsOrowel\\Program.cs",
+              "RelativeDocumentMoniker": "NextConsOrowel\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\27-Jan-Handson\\NextConsOrowel\\NextConsOrowel\\Program.cs",
+              "RelativeToolTip": "NextConsOrowel\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-30T06:45:20.409Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

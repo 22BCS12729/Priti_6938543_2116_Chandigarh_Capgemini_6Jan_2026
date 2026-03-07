@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\bin\Debug\net10.0\GrossSalaryCal.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\bin\Debug\net10.0\GrossSalaryCal.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\bin\Debug\net10.0\GrossSalaryCal.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\bin\Debug\net10.0\GrossSalaryCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\bin\Debug\net10.0\GrossSalaryCal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\refint\GrossSalaryCal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\GrossSalaryCal.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\GrossSalaryCal\obj\Debug\net10.0\ref\GrossSalaryCal.dll

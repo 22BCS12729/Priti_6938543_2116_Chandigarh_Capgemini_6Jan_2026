@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\InsertSubstring\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{F753D885-589A-4A3E-A677-8700BD6D2C27}|InsertSubstring\\InsertSubstring.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\insertsubstring\\insertsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F753D885-589A-4A3E-A677-8700BD6D2C27}|InsertSubstring\\InsertSubstring.csproj|solutionrelative:insertsubstring\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{F753D885-589A-4A3E-A677-8700BD6D2C27}|InsertSubstring\\InsertSubstring.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\insertsubstring\\insertsubstring\\insertsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{F753D885-589A-4A3E-A677-8700BD6D2C27}|InsertSubstring\\InsertSubstring.csproj|solutionrelative:insertsubstring\\insertsub.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "InsertSub.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\InsertSubstring\\InsertSubstring\\InsertSub.cs",
+              "RelativeDocumentMoniker": "InsertSubstring\\InsertSub.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\InsertSubstring\\InsertSubstring\\InsertSub.cs",
+              "RelativeToolTip": "InsertSubstring\\InsertSub.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAcAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:14:03.05Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\InsertSubstring\\InsertSubstring\\Program.cs",
+              "RelativeDocumentMoniker": "InsertSubstring\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\InsertSubstring\\InsertSubstring\\Program.cs",
+              "RelativeToolTip": "InsertSubstring\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAAAaAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:13:29.881Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

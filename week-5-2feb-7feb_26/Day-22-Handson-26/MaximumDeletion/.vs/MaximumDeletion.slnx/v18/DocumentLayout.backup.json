@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-22-Handson-26\\MaximumDeletion\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF35974-78B9-4BDD-9299-43F1EBD8F16E}|MaximumDeletion\\MaximumDeletion.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-5-2feb-7feb_26\\day-22-handson-26\\maximumdeletion\\maximumdeletion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF35974-78B9-4BDD-9299-43F1EBD8F16E}|MaximumDeletion\\MaximumDeletion.csproj|solutionrelative:maximumdeletion\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{3FF35974-78B9-4BDD-9299-43F1EBD8F16E}|MaximumDeletion\\MaximumDeletion.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-5-2feb-7feb_26\\day-22-handson-26\\maximumdeletion\\maximumdeletion\\maxdeletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3FF35974-78B9-4BDD-9299-43F1EBD8F16E}|MaximumDeletion\\MaximumDeletion.csproj|solutionrelative:maximumdeletion\\maxdeletion.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MaxDeletion.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-22-Handson-26\\MaximumDeletion\\MaximumDeletion\\MaxDeletion.cs",
+              "RelativeDocumentMoniker": "MaximumDeletion\\MaxDeletion.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-22-Handson-26\\MaximumDeletion\\MaximumDeletion\\MaxDeletion.cs*",
+              "RelativeToolTip": "MaximumDeletion\\MaxDeletion.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:17:36.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-22-Handson-26\\MaximumDeletion\\MaximumDeletion\\Program.cs",
+              "RelativeDocumentMoniker": "MaximumDeletion\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-22-Handson-26\\MaximumDeletion\\MaximumDeletion\\Program.cs*",
+              "RelativeToolTip": "MaximumDeletion\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAAhAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-05T10:17:04.441Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

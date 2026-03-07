@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\bin\Debug\net10.0\AuthenticationEstate.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\bin\Debug\net10.0\AuthenticationEstate.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\bin\Debug\net10.0\AuthenticationEstate.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\bin\Debug\net10.0\AuthenticationEstate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\bin\Debug\net10.0\AuthenticationEstate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\refint\AuthenticationEstate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\AuthenticationEstate.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\AuthenticationEstate\obj\Debug\net10.0\ref\AuthenticationEstate.dll

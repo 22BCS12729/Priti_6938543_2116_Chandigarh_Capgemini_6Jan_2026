@@ -1,0 +1,4 @@
+<Solution>
+  <Project Path="../NunitTestProject1/NunitTestProject1.csproj" />
+  <Project Path="CalculateNtestingUnit.csproj" />
+</Solution>

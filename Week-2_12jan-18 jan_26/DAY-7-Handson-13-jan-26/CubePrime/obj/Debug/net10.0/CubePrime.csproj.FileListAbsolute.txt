@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\bin\Debug\net10.0\CubePrime.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\bin\Debug\net10.0\CubePrime.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\bin\Debug\net10.0\CubePrime.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\bin\Debug\net10.0\CubePrime.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\bin\Debug\net10.0\CubePrime.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\refint\CubePrime.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\CubePrime.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\CubePrime\obj\Debug\net10.0\ref\CubePrime.dll

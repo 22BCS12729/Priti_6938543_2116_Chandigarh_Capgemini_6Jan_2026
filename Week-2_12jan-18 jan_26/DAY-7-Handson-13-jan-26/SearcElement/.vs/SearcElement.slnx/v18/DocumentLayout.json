@@ -1,0 +1,87 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-7-handson-13-jan-26\\searcelement\\searchelementarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|solutionrelative:searchelementarray.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-7-handson-13-jan-26\\searcelement\\searcelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|solutionrelative:searcelement.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-7-handson-13-jan-26\\searcelement\\searcelement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|solutionrelative:searcelement.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-7-handson-13-jan-26\\searcelement\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{8B8C8A69-9323-4BCC-9E09-CC7FB0691690}|SearcElement.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "SearcElement",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearcElement.csproj",
+              "RelativeDocumentMoniker": "SearcElement.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearcElement.csproj",
+              "RelativeToolTip": "SearcElement.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T17:07:10.754Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "SearcElement",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearcElement.csproj",
+              "RelativeDocumentMoniker": "SearcElement.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearcElement.csproj",
+              "RelativeToolTip": "SearcElement.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T17:07:14.077Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "SearchElementArray.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearchElementArray.cs",
+              "RelativeDocumentMoniker": "SearchElementArray.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\SearchElementArray.cs",
+              "RelativeToolTip": "SearchElementArray.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACcAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:06:39.181Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-7-Handson-13-jan-26\\SearcElement\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T17:06:05.054Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\bin\Debug\net10.0\AllSpanish.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\bin\Debug\net10.0\AllSpanish.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\bin\Debug\net10.0\AllSpanish.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\bin\Debug\net10.0\AllSpanish.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\bin\Debug\net10.0\AllSpanish.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\refint\AllSpanish.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\AllSpanish.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\AllSpanish\obj\Debug\net10.0\ref\AllSpanish.dll

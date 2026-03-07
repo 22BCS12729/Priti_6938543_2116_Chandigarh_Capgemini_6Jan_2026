@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\bin\Debug\net10.0\OperationPerform.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\bin\Debug\net10.0\OperationPerform.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\bin\Debug\net10.0\OperationPerform.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\bin\Debug\net10.0\OperationPerform.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\bin\Debug\net10.0\OperationPerform.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\refint\OperationPerform.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\OperationPerform.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\OperationPerform\obj\Debug\net10.0\ref\OperationPerform.dll

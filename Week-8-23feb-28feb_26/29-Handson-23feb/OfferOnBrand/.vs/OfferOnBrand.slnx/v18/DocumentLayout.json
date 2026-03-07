@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\OfferOnBrand\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F4007-E229-4214-AA7E-7353BD90724D}|OfferOnBrand.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\offeronbrand\\brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F4007-E229-4214-AA7E-7353BD90724D}|OfferOnBrand.csproj|solutionrelative:brand.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{CE8F4007-E229-4214-AA7E-7353BD90724D}|OfferOnBrand.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\offeronbrand\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{CE8F4007-E229-4214-AA7E-7353BD90724D}|OfferOnBrand.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Brand.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\OfferOnBrand\\Brand.cs",
+              "RelativeDocumentMoniker": "Brand.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\OfferOnBrand\\Brand.cs",
+              "RelativeToolTip": "Brand.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAMAAAASAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:38:45.11Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\OfferOnBrand\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\OfferOnBrand\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACYAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-23T18:38:21.696Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

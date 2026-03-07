@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\bin\Debug\net10.0\LinqPractise.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\bin\Debug\net10.0\LinqPractise.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\bin\Debug\net10.0\LinqPractise.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\bin\Debug\net10.0\LinqPractise.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\bin\Debug\net10.0\LinqPractise.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\refint\LinqPractise.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\LinqPractise.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-Jan-26-Handson-Linq-Lambda\LinqPractise\obj\Debug\net10.0\ref\LinqPractise.dll

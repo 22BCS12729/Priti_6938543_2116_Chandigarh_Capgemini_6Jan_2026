@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\UniqueWords\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{597B8992-17AB-4EF7-9632-285542455CD9}|UniqueWords\\UniqueWords.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\uniquewords\\uniquewords\\uniuewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B8992-17AB-4EF7-9632-285542455CD9}|UniqueWords\\UniqueWords.csproj|solutionrelative:uniquewords\\uniuewords.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{597B8992-17AB-4EF7-9632-285542455CD9}|UniqueWords\\UniqueWords.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\uniquewords\\uniquewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{597B8992-17AB-4EF7-9632-285542455CD9}|UniqueWords\\UniqueWords.csproj|solutionrelative:uniquewords\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniueWords.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\UniqueWords\\UniqueWords\\UniueWords.cs",
+              "RelativeDocumentMoniker": "UniqueWords\\UniueWords.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\UniqueWords\\UniqueWords\\UniueWords.cs",
+              "RelativeToolTip": "UniqueWords\\UniueWords.cs",
+              "ViewState": "AgIAABwAAAAAAAAAAAAQwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:44:59.67Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\UniqueWords\\UniqueWords\\Program.cs",
+              "RelativeDocumentMoniker": "UniqueWords\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\UniqueWords\\UniqueWords\\Program.cs",
+              "RelativeToolTip": "UniqueWords\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T18:44:36.712Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

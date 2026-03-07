@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\bin\Debug\net10.0\Misconception.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\bin\Debug\net10.0\Misconception.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\bin\Debug\net10.0\Misconception.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\bin\Debug\net10.0\Misconception.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\bin\Debug\net10.0\Misconception.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\refint\Misconception.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\Misconception.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\Misconception\Misconception\obj\Debug\net10.0\ref\Misconception.dll

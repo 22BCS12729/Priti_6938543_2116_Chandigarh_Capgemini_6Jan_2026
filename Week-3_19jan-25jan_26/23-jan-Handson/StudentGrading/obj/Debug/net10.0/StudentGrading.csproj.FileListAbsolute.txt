@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\bin\Debug\net10.0\StudentGrading.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\bin\Debug\net10.0\StudentGrading.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\bin\Debug\net10.0\StudentGrading.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\bin\Debug\net10.0\StudentGrading.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\bin\Debug\net10.0\StudentGrading.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\refint\StudentGrading.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\StudentGrading.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\StudentGrading\obj\Debug\net10.0\ref\StudentGrading.dll

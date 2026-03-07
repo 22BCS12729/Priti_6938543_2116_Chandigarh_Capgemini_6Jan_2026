@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\19-Jan-26-Handson\\UniversityEnrollment\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8FFEB-FB29-4CC0-8DA8-4986DCAF73E6}|UniversityEnrollment.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\19-jan-26-handson\\universityenrollment\\univerenroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8FFEB-FB29-4CC0-8DA8-4986DCAF73E6}|UniversityEnrollment.csproj|solutionrelative:univerenroll.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{BCB8FFEB-FB29-4CC0-8DA8-4986DCAF73E6}|UniversityEnrollment.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\19-jan-26-handson\\universityenrollment\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{BCB8FFEB-FB29-4CC0-8DA8-4986DCAF73E6}|UniversityEnrollment.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "UniverEnroll.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\19-Jan-26-Handson\\UniversityEnrollment\\UniverEnroll.cs",
+              "RelativeDocumentMoniker": "UniverEnroll.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\19-Jan-26-Handson\\UniversityEnrollment\\UniverEnroll.cs*",
+              "RelativeToolTip": "UniverEnroll.cs*",
+              "ViewState": "AgIAAFwAAAAAAAAAAAAmwAYAAAAQAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:45:45.294Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\19-Jan-26-Handson\\UniversityEnrollment\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\19-Jan-26-Handson\\UniversityEnrollment\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAcAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-20T09:45:17.845Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

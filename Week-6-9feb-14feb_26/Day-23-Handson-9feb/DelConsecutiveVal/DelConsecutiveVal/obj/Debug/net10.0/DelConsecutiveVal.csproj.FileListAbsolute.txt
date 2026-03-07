@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\bin\Debug\net10.0\DelConsecutiveVal.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\bin\Debug\net10.0\DelConsecutiveVal.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\bin\Debug\net10.0\DelConsecutiveVal.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\bin\Debug\net10.0\DelConsecutiveVal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\bin\Debug\net10.0\DelConsecutiveVal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\refint\DelConsecutiveVal.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\DelConsecutiveVal.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\DelConsecutiveVal\DelConsecutiveVal\obj\Debug\net10.0\ref\DelConsecutiveVal.dll

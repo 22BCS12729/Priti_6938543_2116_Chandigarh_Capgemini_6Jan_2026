@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\bin\Debug\net10.0\DelegatesExample.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\bin\Debug\net10.0\DelegatesExample.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\bin\Debug\net10.0\DelegatesExample.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\bin\Debug\net10.0\DelegatesExample.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\bin\Debug\net10.0\DelegatesExample.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\refint\DelegatesExample.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\DelegatesExample.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\DelegatesExample\obj\Debug\net10.0\ref\DelegatesExample.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\Digitsum-in_String\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{4C45DF3A-A302-4B14-8314-F198D76B62E3}|Digitsum-in_String\\Digitsum-in_String.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-18-30jan-26\\digitsum-in_string\\digitsum-in_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C45DF3A-A302-4B14-8314-F198D76B62E3}|Digitsum-in_String\\Digitsum-in_String.csproj|solutionrelative:digitsum-in_string\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{4C45DF3A-A302-4B14-8314-F198D76B62E3}|Digitsum-in_String\\Digitsum-in_String.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-18-30jan-26\\digitsum-in_string\\digitsum-in_string\\digitsuminstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{4C45DF3A-A302-4B14-8314-F198D76B62E3}|Digitsum-in_String\\Digitsum-in_String.csproj|solutionrelative:digitsum-in_string\\digitsuminstring.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DigitsuminString.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\Digitsum-in_String\\Digitsum-in_String\\DigitsuminString.cs",
+              "RelativeDocumentMoniker": "Digitsum-in_String\\DigitsuminString.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\Digitsum-in_String\\Digitsum-in_String\\DigitsuminString.cs",
+              "RelativeToolTip": "Digitsum-in_String\\DigitsuminString.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAfAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T05:07:10.941Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\Digitsum-in_String\\Digitsum-in_String\\Program.cs",
+              "RelativeDocumentMoniker": "Digitsum-in_String\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-18-30jan-26\\Digitsum-in_String\\Digitsum-in_String\\Program.cs",
+              "RelativeToolTip": "Digitsum-in_String\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAMAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-31T04:38:29.519Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\bin\Debug\net10.0\Indistractable.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\bin\Debug\net10.0\Indistractable.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\bin\Debug\net10.0\Indistractable.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\bin\Debug\net10.0\Indistractable.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\bin\Debug\net10.0\Indistractable.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\refint\Indistractable.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\Indistractable.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\Indistractable\obj\Debug\net10.0\ref\Indistractable.dll

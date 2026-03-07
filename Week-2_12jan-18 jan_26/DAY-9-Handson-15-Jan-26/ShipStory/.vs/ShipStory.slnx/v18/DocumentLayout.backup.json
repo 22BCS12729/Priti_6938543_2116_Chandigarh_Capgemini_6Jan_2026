@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ShipStory\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{79E57CCA-C9D4-4FAB-985C-BF18FFF0A92C}|ShipStory.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\shipstory\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E57CCA-C9D4-4FAB-985C-BF18FFF0A92C}|ShipStory.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{79E57CCA-C9D4-4FAB-985C-BF18FFF0A92C}|ShipStory.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-2_12jan-18 jan_26\\day-9-handson-15-jan-26\\shipstory\\arraysum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{79E57CCA-C9D4-4FAB-985C-BF18FFF0A92C}|ShipStory.csproj|solutionrelative:arraysum.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ArraySum.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ShipStory\\ArraySum.cs",
+              "RelativeDocumentMoniker": "ArraySum.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ShipStory\\ArraySum.cs",
+              "RelativeToolTip": "ArraySum.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAAwAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:39:26.161Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ShipStory\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-2_12jan-18 jan_26\\DAY-9-Handson-15-Jan-26\\ShipStory\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAcAAAAAAAAAAAAQwBcAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-18T15:38:38.445Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

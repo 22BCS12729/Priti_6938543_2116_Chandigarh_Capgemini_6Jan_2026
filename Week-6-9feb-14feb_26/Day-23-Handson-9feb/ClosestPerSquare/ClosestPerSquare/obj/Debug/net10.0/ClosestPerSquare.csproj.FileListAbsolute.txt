@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\bin\Debug\net10.0\ClosestPerSquare.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\bin\Debug\net10.0\ClosestPerSquare.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\bin\Debug\net10.0\ClosestPerSquare.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\bin\Debug\net10.0\ClosestPerSquare.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\bin\Debug\net10.0\ClosestPerSquare.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\refint\ClosestPerSquare.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ClosestPerSquare.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ClosestPerSquare\ClosestPerSquare\obj\Debug\net10.0\ref\ClosestPerSquare.dll

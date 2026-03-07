@@ -1,0 +1,70 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\multiplyposno\\mulposno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|solutionrelative:mulposno.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\multiplyposno\\multiplyposno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|",
+      "RelativeMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|solutionrelative:multiplyposno.csproj||{04B8AB82-A572-4FEF-95CE-5222444B6B64}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-1_6jan-11jan_26\\day-4-handson-9jan-26\\multiplyposno\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{19347346-73A4-4364-9444-165FBC13CCA1}|MultiplyPosNo.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "MultiplyPosNo",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\MultiplyPosNo.csproj",
+              "RelativeDocumentMoniker": "MultiplyPosNo.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\MultiplyPosNo.csproj",
+              "RelativeToolTip": "MultiplyPosNo.csproj",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-01-13T13:08:23.443Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "MulPosNo.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\MulPosNo.cs",
+              "RelativeDocumentMoniker": "MulPosNo.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\MulPosNo.cs",
+              "RelativeToolTip": "MulPosNo.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAqwCIAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:03:24.957Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-1_6jan-11jan_26\\DAY-4-Handson-9Jan-26\\MultiplyPosNo\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-13T13:02:35.744Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\bin\Debug\net10.0\StrongPaasValidation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\bin\Debug\net10.0\StrongPaasValidation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\bin\Debug\net10.0\StrongPaasValidation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\bin\Debug\net10.0\StrongPaasValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\bin\Debug\net10.0\StrongPaasValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\refint\StrongPaasValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\StrongPaasValidation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\StrongPaasValidation\StrongPaasValidation\obj\Debug\net10.0\ref\StrongPaasValidation.dll

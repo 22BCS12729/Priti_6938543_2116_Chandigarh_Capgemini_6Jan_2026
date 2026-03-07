@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RevPipe\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6D8736-CB99-4FF6-8A39-BD551F4ABDDF}|RevPipe\\RevPipe.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\revpipe\\revpipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6D8736-CB99-4FF6-8A39-BD551F4ABDDF}|RevPipe\\RevPipe.csproj|solutionrelative:revpipe\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{EE6D8736-CB99-4FF6-8A39-BD551F4ABDDF}|RevPipe\\RevPipe.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-23-handson-9feb\\revpipe\\revpipe\\reversepipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{EE6D8736-CB99-4FF6-8A39-BD551F4ABDDF}|RevPipe\\RevPipe.csproj|solutionrelative:revpipe\\reversepipe.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ReversePipe.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RevPipe\\RevPipe\\ReversePipe.cs",
+              "RelativeDocumentMoniker": "RevPipe\\ReversePipe.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RevPipe\\RevPipe\\ReversePipe.cs*",
+              "RelativeToolTip": "RevPipe\\ReversePipe.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAAeAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:04:33.155Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RevPipe\\RevPipe\\Program.cs",
+              "RelativeDocumentMoniker": "RevPipe\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-23-Handson-9feb\\RevPipe\\RevPipe\\Program.cs*",
+              "RelativeToolTip": "RevPipe\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-12T19:03:52.689Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

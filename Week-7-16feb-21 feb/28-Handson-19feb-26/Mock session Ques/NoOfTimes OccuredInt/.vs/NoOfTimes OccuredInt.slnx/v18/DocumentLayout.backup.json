@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\NoOfTimes OccuredInt\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{906948EC-1F08-4321-9E91-43E2A0FFA00A}|NoOfTimes OccuredInt.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\28-handson-19feb-26\\mock session ques\\nooftimes occuredint\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906948EC-1F08-4321-9E91-43E2A0FFA00A}|NoOfTimes OccuredInt.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{906948EC-1F08-4321-9E91-43E2A0FFA00A}|NoOfTimes OccuredInt.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\28-handson-19feb-26\\mock session ques\\nooftimes occuredint\\countinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{906948EC-1F08-4321-9E91-43E2A0FFA00A}|NoOfTimes OccuredInt.csproj|solutionrelative:countinteger.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CountInteger.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\NoOfTimes OccuredInt\\CountInteger.cs",
+              "RelativeDocumentMoniker": "CountInteger.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\NoOfTimes OccuredInt\\CountInteger.cs*",
+              "RelativeToolTip": "CountInteger.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAjAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:34:16.8Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\NoOfTimes OccuredInt\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\28-Handson-19feb-26\\Mock session Ques\\NoOfTimes OccuredInt\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABEAAAAnAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-19T04:33:57.921Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\bin\Debug\net10.0\SearchElement.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\bin\Debug\net10.0\SearchElement.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\bin\Debug\net10.0\SearchElement.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\bin\Debug\net10.0\SearchElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\bin\Debug\net10.0\SearchElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\refint\SearchElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\SearchElement.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\SearchElement\obj\Debug\net10.0\ref\SearchElement.dll

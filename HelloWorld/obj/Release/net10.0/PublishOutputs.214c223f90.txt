@@ -1,0 +1,5 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\HelloWorld\bin\Release\net10.0\publish\HelloWorld.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\HelloWorld\bin\Release\net10.0\publish\HelloWorld.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\HelloWorld\bin\Release\net10.0\publish\HelloWorld.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\HelloWorld\bin\Release\net10.0\publish\HelloWorld.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\HelloWorld\bin\Release\net10.0\publish\HelloWorld.pdb

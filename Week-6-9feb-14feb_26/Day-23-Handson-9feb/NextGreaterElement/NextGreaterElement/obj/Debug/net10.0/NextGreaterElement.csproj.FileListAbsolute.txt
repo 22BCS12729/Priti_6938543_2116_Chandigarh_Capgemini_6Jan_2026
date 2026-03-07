@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\bin\Debug\net10.0\NextGreaterElement.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\bin\Debug\net10.0\NextGreaterElement.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\bin\Debug\net10.0\NextGreaterElement.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\bin\Debug\net10.0\NextGreaterElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\bin\Debug\net10.0\NextGreaterElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\refint\NextGreaterElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\NextGreaterElement.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\NextGreaterElement\NextGreaterElement\obj\Debug\net10.0\ref\NextGreaterElement.dll

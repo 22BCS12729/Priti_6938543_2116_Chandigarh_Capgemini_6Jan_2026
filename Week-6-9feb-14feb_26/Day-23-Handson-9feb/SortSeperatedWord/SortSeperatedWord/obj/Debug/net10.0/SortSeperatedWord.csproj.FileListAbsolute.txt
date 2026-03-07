@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\bin\Debug\net10.0\SortSeperatedWord.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\bin\Debug\net10.0\SortSeperatedWord.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\bin\Debug\net10.0\SortSeperatedWord.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\bin\Debug\net10.0\SortSeperatedWord.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\bin\Debug\net10.0\SortSeperatedWord.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\refint\SortSeperatedWord.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\SortSeperatedWord.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\SortSeperatedWord\SortSeperatedWord\obj\Debug\net10.0\ref\SortSeperatedWord.dll

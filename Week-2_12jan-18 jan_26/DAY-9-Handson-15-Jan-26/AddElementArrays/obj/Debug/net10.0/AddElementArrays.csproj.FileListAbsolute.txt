@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\bin\Debug\net10.0\AddElementArrays.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\bin\Debug\net10.0\AddElementArrays.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\bin\Debug\net10.0\AddElementArrays.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\bin\Debug\net10.0\AddElementArrays.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\bin\Debug\net10.0\AddElementArrays.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\refint\AddElementArrays.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\AddElementArrays.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\AddElementArrays\obj\Debug\net10.0\ref\AddElementArrays.dll

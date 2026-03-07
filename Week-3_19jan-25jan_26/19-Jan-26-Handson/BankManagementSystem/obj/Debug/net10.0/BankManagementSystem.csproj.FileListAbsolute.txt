@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\bin\Debug\net10.0\BankManagementSystem.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\bin\Debug\net10.0\BankManagementSystem.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\bin\Debug\net10.0\BankManagementSystem.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\bin\Debug\net10.0\BankManagementSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\bin\Debug\net10.0\BankManagementSystem.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\refint\BankManagementSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\BankManagementSystem.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\BankManagementSystem\obj\Debug\net10.0\ref\BankManagementSystem.dll

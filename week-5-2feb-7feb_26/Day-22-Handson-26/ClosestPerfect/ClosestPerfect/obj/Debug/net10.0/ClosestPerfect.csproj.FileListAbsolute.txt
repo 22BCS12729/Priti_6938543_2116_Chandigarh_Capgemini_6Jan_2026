@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\bin\Debug\net10.0\ClosestPerfect.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\bin\Debug\net10.0\ClosestPerfect.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\bin\Debug\net10.0\ClosestPerfect.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\bin\Debug\net10.0\ClosestPerfect.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\bin\Debug\net10.0\ClosestPerfect.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\refint\ClosestPerfect.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ClosestPerfect.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\ClosestPerfect\ClosestPerfect\obj\Debug\net10.0\ref\ClosestPerfect.dll

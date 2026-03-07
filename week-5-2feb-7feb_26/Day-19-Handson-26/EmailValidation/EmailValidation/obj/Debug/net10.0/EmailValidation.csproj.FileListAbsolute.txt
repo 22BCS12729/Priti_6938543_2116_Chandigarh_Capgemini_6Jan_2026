@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\bin\Debug\net10.0\EmailValidation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\bin\Debug\net10.0\EmailValidation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\bin\Debug\net10.0\EmailValidation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\bin\Debug\net10.0\EmailValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\bin\Debug\net10.0\EmailValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\refint\EmailValidation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\EmailValidation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\EmailValidation\EmailValidation\obj\Debug\net10.0\ref\EmailValidation.dll

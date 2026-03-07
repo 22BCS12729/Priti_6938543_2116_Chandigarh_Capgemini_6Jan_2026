@@ -1,0 +1,4 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckVotingElg\CheckVotingElg\obj\Debug\net10.0\CheckVotingElg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckVotingElg\CheckVotingElg\obj\Debug\net10.0\CheckVotingElg.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckVotingElg\CheckVotingElg\obj\Debug\net10.0\CheckVotingElg.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckVotingElg\CheckVotingElg\obj\Debug\net10.0\CheckVotingElg.csproj.CoreCompileInputs.cache

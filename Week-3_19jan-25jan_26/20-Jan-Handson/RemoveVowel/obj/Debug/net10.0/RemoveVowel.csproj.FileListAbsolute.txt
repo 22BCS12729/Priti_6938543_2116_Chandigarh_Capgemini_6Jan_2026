@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\bin\Debug\net10.0\RemoveVowel.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\bin\Debug\net10.0\RemoveVowel.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\bin\Debug\net10.0\RemoveVowel.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\bin\Debug\net10.0\RemoveVowel.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\bin\Debug\net10.0\RemoveVowel.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\refint\RemoveVowel.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\RemoveVowel.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\RemoveVowel\obj\Debug\net10.0\ref\RemoveVowel.dll

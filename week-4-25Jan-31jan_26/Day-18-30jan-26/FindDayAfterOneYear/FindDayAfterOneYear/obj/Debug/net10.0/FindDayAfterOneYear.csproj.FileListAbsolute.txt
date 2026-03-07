@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\bin\Debug\net10.0\FindDayAfterOneYear.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\bin\Debug\net10.0\FindDayAfterOneYear.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\bin\Debug\net10.0\FindDayAfterOneYear.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\bin\Debug\net10.0\FindDayAfterOneYear.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\bin\Debug\net10.0\FindDayAfterOneYear.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\refint\FindDayAfterOneYear.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\FindDayAfterOneYear.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FindDayAfterOneYear\FindDayAfterOneYear\obj\Debug\net10.0\ref\FindDayAfterOneYear.dll

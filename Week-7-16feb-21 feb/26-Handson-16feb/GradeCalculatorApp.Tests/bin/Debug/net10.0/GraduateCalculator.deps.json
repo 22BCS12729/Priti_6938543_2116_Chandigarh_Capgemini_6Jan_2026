@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "GraduateCalculator/1.0.0": {
+        "runtime": {
+          "GraduateCalculator.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "GraduateCalculator/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

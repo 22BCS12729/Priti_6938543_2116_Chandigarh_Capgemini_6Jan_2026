@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\bin\Debug\net10.0\InsertCharacter.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\bin\Debug\net10.0\InsertCharacter.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\bin\Debug\net10.0\InsertCharacter.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\bin\Debug\net10.0\InsertCharacter.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\bin\Debug\net10.0\InsertCharacter.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\refint\InsertCharacter.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\InsertCharacter.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\InsertCharacter\InsertCharacter\obj\Debug\net10.0\ref\InsertCharacter.dll

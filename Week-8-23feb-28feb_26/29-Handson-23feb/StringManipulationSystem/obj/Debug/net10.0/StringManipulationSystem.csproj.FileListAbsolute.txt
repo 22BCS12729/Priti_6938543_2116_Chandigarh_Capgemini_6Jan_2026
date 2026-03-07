@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\bin\Debug\net10.0\StringManipulationSystem.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\bin\Debug\net10.0\StringManipulationSystem.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\bin\Debug\net10.0\StringManipulationSystem.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\bin\Debug\net10.0\StringManipulationSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\bin\Debug\net10.0\StringManipulationSystem.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\refint\StringManipulationSystem.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\StringManipulationSystem.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\StringManipulationSystem\obj\Debug\net10.0\ref\StringManipulationSystem.dll

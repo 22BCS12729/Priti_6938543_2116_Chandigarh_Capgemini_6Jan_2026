@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\bin\Debug\net10.0\E-CommerceCategory.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\bin\Debug\net10.0\E-CommerceCategory.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\bin\Debug\net10.0\E-CommerceCategory.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\bin\Debug\net10.0\E-CommerceCategory.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\bin\Debug\net10.0\E-CommerceCategory.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\refint\E-CommerceCategory.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\E-CommerceCategory.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\E-CommerceCategory\obj\Debug\net10.0\ref\E-CommerceCategory.dll

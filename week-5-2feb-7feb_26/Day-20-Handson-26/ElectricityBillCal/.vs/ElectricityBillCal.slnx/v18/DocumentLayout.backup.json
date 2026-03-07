@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-20-Handson-26\\ElectricityBillCal\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{814871F8-B493-4AFF-B102-F350D32FF0B4}|ElectricityBillCal\\ElectricityBillCal.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-5-2feb-7feb_26\\day-20-handson-26\\electricitybillcal\\electricitybillcal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814871F8-B493-4AFF-B102-F350D32FF0B4}|ElectricityBillCal\\ElectricityBillCal.csproj|solutionrelative:electricitybillcal\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{814871F8-B493-4AFF-B102-F350D32FF0B4}|ElectricityBillCal\\ElectricityBillCal.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-5-2feb-7feb_26\\day-20-handson-26\\electricitybillcal\\electricitybillcal\\electricitybbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{814871F8-B493-4AFF-B102-F350D32FF0B4}|ElectricityBillCal\\ElectricityBillCal.csproj|solutionrelative:electricitybillcal\\electricitybbill.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "ElectricitybBill.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-20-Handson-26\\ElectricityBillCal\\ElectricityBillCal\\ElectricitybBill.cs",
+              "RelativeDocumentMoniker": "ElectricityBillCal\\ElectricitybBill.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-20-Handson-26\\ElectricityBillCal\\ElectricityBillCal\\ElectricitybBill.cs*",
+              "RelativeToolTip": "ElectricityBillCal\\ElectricitybBill.cs*",
+              "ViewState": "AgIAAAEAAAAAAAAAAAAswAgAAAAtAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:28:18.888Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-20-Handson-26\\ElectricityBillCal\\ElectricityBillCal\\Program.cs",
+              "RelativeDocumentMoniker": "ElectricityBillCal\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-5-2feb-7feb_26\\Day-20-Handson-26\\ElectricityBillCal\\ElectricityBillCal\\Program.cs*",
+              "RelativeToolTip": "ElectricityBillCal\\Program.cs*",
+              "ViewState": "AgIAAAYAAAAAAAAAAAAAABsAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-03T06:25:40.521Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

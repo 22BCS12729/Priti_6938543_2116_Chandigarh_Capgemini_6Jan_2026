@@ -1,0 +1,4 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculateScore\CalculateScore\obj\Debug\net10.0\CalculateScore.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculateScore\CalculateScore\obj\Debug\net10.0\CalculateScore.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculateScore\CalculateScore\obj\Debug\net10.0\CalculateScore.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculateScore\CalculateScore\obj\Debug\net10.0\CalculateScore.csproj.CoreCompileInputs.cache

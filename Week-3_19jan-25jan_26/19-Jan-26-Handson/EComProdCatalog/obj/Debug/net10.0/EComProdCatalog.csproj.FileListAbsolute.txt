@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\bin\Debug\net10.0\EComProdCatalog.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\bin\Debug\net10.0\EComProdCatalog.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\bin\Debug\net10.0\EComProdCatalog.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\bin\Debug\net10.0\EComProdCatalog.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\bin\Debug\net10.0\EComProdCatalog.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\refint\EComProdCatalog.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\EComProdCatalog.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\19-Jan-26-Handson\EComProdCatalog\obj\Debug\net10.0\ref\EComProdCatalog.dll

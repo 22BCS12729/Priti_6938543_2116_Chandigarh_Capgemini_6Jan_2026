@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\bin\Debug\net10.0\PrintLastPass.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\bin\Debug\net10.0\PrintLastPass.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\bin\Debug\net10.0\PrintLastPass.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\bin\Debug\net10.0\PrintLastPass.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\bin\Debug\net10.0\PrintLastPass.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\refint\PrintLastPass.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\PrintLastPass.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\PrintLastPass\PrintLastPass\obj\Debug\net10.0\ref\PrintLastPass.dll

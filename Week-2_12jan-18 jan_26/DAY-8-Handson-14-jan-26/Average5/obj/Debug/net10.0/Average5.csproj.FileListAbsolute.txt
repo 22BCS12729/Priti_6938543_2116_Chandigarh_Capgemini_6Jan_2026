@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\bin\Debug\net10.0\Average5.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\bin\Debug\net10.0\Average5.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\bin\Debug\net10.0\Average5.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\bin\Debug\net10.0\Average5.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\bin\Debug\net10.0\Average5.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\refint\Average5.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\Average5.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\Poject_Demo\Average5\obj\Debug\net10.0\ref\Average5.dll

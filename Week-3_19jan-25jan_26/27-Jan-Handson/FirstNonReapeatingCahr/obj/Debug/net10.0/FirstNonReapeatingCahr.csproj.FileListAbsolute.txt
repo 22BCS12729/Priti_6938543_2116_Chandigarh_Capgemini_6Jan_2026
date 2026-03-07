@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\bin\Debug\net10.0\FirstNonReapeatingCahr.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\bin\Debug\net10.0\FirstNonReapeatingCahr.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\bin\Debug\net10.0\FirstNonReapeatingCahr.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\bin\Debug\net10.0\FirstNonReapeatingCahr.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\bin\Debug\net10.0\FirstNonReapeatingCahr.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\refint\FirstNonReapeatingCahr.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\FirstNonReapeatingCahr.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\FirstNonReapeatingCahr\obj\Debug\net10.0\ref\FirstNonReapeatingCahr.dll

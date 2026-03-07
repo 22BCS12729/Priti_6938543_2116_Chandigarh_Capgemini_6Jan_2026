@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\bin\Debug\net10.0\RepFirstOccu.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\bin\Debug\net10.0\RepFirstOccu.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\bin\Debug\net10.0\RepFirstOccu.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\bin\Debug\net10.0\RepFirstOccu.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\bin\Debug\net10.0\RepFirstOccu.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\refint\RepFirstOccu.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\RepFirstOccu.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RepFirstOccu\RepFirstOccu\obj\Debug\net10.0\ref\RepFirstOccu.dll

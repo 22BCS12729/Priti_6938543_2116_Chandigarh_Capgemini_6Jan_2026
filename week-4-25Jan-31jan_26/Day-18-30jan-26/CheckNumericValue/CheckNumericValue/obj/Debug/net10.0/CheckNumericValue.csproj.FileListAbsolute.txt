@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\bin\Debug\net10.0\CheckNumericValue.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\bin\Debug\net10.0\CheckNumericValue.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\bin\Debug\net10.0\CheckNumericValue.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\bin\Debug\net10.0\CheckNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\bin\Debug\net10.0\CheckNumericValue.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\refint\CheckNumericValue.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\CheckNumericValue.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CheckNumericValue\CheckNumericValue\obj\Debug\net10.0\ref\CheckNumericValue.dll

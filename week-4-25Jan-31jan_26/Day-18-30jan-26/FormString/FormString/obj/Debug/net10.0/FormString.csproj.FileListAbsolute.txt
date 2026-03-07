@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\bin\Debug\net10.0\FormString.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\bin\Debug\net10.0\FormString.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\bin\Debug\net10.0\FormString.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\bin\Debug\net10.0\FormString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\bin\Debug\net10.0\FormString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\refint\FormString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\FormString.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\FormString\FormString\obj\Debug\net10.0\ref\FormString.dll

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\bin\Debug\net10.0\EmployeeDesignation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\refint\EmployeeDesignation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\EmployeeDesignation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\EmployeeDesignation\EmployeeDesignation\obj\Debug\net10.0\ref\EmployeeDesignation.dll

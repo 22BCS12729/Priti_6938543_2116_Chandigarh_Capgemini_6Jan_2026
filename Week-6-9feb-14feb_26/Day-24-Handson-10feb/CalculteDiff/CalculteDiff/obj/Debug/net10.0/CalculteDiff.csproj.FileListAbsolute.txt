@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\bin\Debug\net10.0\CalculteDiff.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\bin\Debug\net10.0\CalculteDiff.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\bin\Debug\net10.0\CalculteDiff.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\bin\Debug\net10.0\CalculteDiff.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\bin\Debug\net10.0\CalculteDiff.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\refint\CalculteDiff.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\CalculteDiff.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CalculteDiff\CalculteDiff\obj\Debug\net10.0\ref\CalculteDiff.dll

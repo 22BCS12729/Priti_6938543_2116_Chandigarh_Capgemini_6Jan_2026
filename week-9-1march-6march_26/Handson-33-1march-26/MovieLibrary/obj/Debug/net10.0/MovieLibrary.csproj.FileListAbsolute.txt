@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\bin\Debug\net10.0\MovieLibrary.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\bin\Debug\net10.0\MovieLibrary.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\bin\Debug\net10.0\MovieLibrary.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\bin\Debug\net10.0\MovieLibrary.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\bin\Debug\net10.0\MovieLibrary.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\refint\MovieLibrary.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\MovieLibrary.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\MovieLibrary\obj\Debug\net10.0\ref\MovieLibrary.dll

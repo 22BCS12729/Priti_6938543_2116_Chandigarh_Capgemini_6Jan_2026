@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CountTriplets\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F8EAF5-F5A5-4144-BAD9-6BEBD964B186}|CountTriplets\\CountTriplets.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\counttriplets\\counttriplets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F8EAF5-F5A5-4144-BAD9-6BEBD964B186}|CountTriplets\\CountTriplets.csproj|solutionrelative:counttriplets\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A9F8EAF5-F5A5-4144-BAD9-6BEBD964B186}|CountTriplets\\CountTriplets.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\counttriplets\\counttriplets\\tripletcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A9F8EAF5-F5A5-4144-BAD9-6BEBD964B186}|CountTriplets\\CountTriplets.csproj|solutionrelative:counttriplets\\tripletcount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "TripletCount.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CountTriplets\\CountTriplets\\TripletCount.cs",
+              "RelativeDocumentMoniker": "CountTriplets\\TripletCount.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CountTriplets\\CountTriplets\\TripletCount.cs*",
+              "RelativeToolTip": "CountTriplets\\TripletCount.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAgAAAAOAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:23:24.101Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CountTriplets\\CountTriplets\\Program.cs",
+              "RelativeDocumentMoniker": "CountTriplets\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CountTriplets\\CountTriplets\\Program.cs*",
+              "RelativeToolTip": "CountTriplets\\Program.cs*",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAqwBQAAAAyAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T04:22:36.017Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

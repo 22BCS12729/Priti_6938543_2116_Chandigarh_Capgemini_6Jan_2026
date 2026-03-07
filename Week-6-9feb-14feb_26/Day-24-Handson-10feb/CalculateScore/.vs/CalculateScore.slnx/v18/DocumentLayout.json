@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CalculateScore\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{289314CA-4EC4-4207-896C-045B39DB694B}|CalculateScore\\CalculateScore.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\calculatescore\\calculatescore\\scorecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289314CA-4EC4-4207-896C-045B39DB694B}|CalculateScore\\CalculateScore.csproj|solutionrelative:calculatescore\\scorecount.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{289314CA-4EC4-4207-896C-045B39DB694B}|CalculateScore\\CalculateScore.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\calculatescore\\calculatescore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{289314CA-4EC4-4207-896C-045B39DB694B}|CalculateScore\\CalculateScore.csproj|solutionrelative:calculatescore\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 0,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "ScoreCount.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CalculateScore\\CalculateScore\\ScoreCount.cs",
+              "RelativeDocumentMoniker": "CalculateScore\\ScoreCount.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CalculateScore\\CalculateScore\\ScoreCount.cs",
+              "RelativeToolTip": "CalculateScore\\ScoreCount.cs",
+              "ViewState": "AgIAAAoAAAAAAAAAAAAQwAYAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:13:40.798Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CalculateScore\\CalculateScore\\Program.cs",
+              "RelativeDocumentMoniker": "CalculateScore\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\CalculateScore\\CalculateScore\\Program.cs",
+              "RelativeToolTip": "CalculateScore\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABQAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T06:12:41.989Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

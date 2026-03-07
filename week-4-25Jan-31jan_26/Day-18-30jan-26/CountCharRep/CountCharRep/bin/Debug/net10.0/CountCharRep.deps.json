@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "CountCharRep/1.0.0": {
+        "runtime": {
+          "CountCharRep.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "CountCharRep/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

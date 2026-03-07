@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\bin\Debug\net10.0\MaximumDeletion.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\bin\Debug\net10.0\MaximumDeletion.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\bin\Debug\net10.0\MaximumDeletion.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\bin\Debug\net10.0\MaximumDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\bin\Debug\net10.0\MaximumDeletion.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\refint\MaximumDeletion.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\MaximumDeletion.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\MaximumDeletion\MaximumDeletion\obj\Debug\net10.0\ref\MaximumDeletion.dll

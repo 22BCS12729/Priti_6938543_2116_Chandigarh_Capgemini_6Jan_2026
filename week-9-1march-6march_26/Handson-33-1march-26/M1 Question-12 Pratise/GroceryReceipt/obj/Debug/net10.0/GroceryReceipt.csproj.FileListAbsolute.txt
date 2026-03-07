@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\bin\Debug\net10.0\GroceryReceipt.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\bin\Debug\net10.0\GroceryReceipt.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\bin\Debug\net10.0\GroceryReceipt.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\bin\Debug\net10.0\GroceryReceipt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\bin\Debug\net10.0\GroceryReceipt.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\refint\GroceryReceipt.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\GroceryReceipt.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\M1 Question-12 Pratise\GroceryReceipt\obj\Debug\net10.0\ref\GroceryReceipt.dll

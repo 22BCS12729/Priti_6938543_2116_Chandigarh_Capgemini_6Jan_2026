@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\bin\Debug\net10.0\RomanToDec.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\bin\Debug\net10.0\RomanToDec.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\bin\Debug\net10.0\RomanToDec.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\bin\Debug\net10.0\RomanToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\bin\Debug\net10.0\RomanToDec.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\refint\RomanToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\RomanToDec.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\28-Jan-Handson\RomanToDec\RomanToDec\obj\Debug\net10.0\ref\RomanToDec.dll

@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\PrintLastPass\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B554C08F-BCAF-4996-B77C-2E61D54E3143}|PrintLastPass\\PrintLastPass.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\printlastpass\\printlastpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554C08F-BCAF-4996-B77C-2E61D54E3143}|PrintLastPass\\PrintLastPass.csproj|solutionrelative:printlastpass\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B554C08F-BCAF-4996-B77C-2E61D54E3143}|PrintLastPass\\PrintLastPass.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-6-9feb-14feb_26\\day-24-handson-10feb\\printlastpass\\printlastpass\\lastpaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B554C08F-BCAF-4996-B77C-2E61D54E3143}|PrintLastPass\\PrintLastPass.csproj|solutionrelative:printlastpass\\lastpaas.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "LastPaas.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\PrintLastPass\\PrintLastPass\\LastPaas.cs",
+              "RelativeDocumentMoniker": "PrintLastPass\\LastPaas.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\PrintLastPass\\PrintLastPass\\LastPaas.cs*",
+              "RelativeToolTip": "PrintLastPass\\LastPaas.cs*",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAYAAAAbAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T05:07:35.364Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\PrintLastPass\\PrintLastPass\\Program.cs",
+              "RelativeDocumentMoniker": "PrintLastPass\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-6-9feb-14feb_26\\Day-24-Handson-10feb\\PrintLastPass\\PrintLastPass\\Program.cs*",
+              "RelativeToolTip": "PrintLastPass\\Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAUAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T05:07:17.001Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

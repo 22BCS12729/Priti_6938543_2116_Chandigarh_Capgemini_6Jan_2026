@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\bin\Debug\net10.0\BinaryToDec.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\bin\Debug\net10.0\BinaryToDec.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\bin\Debug\net10.0\BinaryToDec.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\bin\Debug\net10.0\BinaryToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\bin\Debug\net10.0\BinaryToDec.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\refint\BinaryToDec.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\BinaryToDec.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-8-Handson-14-jan-26\BinaryToDec\obj\Debug\net10.0\ref\BinaryToDec.dll

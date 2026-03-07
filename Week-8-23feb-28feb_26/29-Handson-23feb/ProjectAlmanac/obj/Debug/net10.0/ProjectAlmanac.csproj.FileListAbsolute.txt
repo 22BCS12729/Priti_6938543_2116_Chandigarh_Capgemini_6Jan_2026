@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\bin\Debug\net10.0\ProjectAlmanac.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\bin\Debug\net10.0\ProjectAlmanac.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\bin\Debug\net10.0\ProjectAlmanac.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\bin\Debug\net10.0\ProjectAlmanac.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\bin\Debug\net10.0\ProjectAlmanac.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\refint\ProjectAlmanac.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ProjectAlmanac.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-8-23feb-28feb_26\29-Handson-23feb\ProjectAlmanac\obj\Debug\net10.0\ref\ProjectAlmanac.dll

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\bin\Debug\net10.0\InventoryManangement.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\bin\Debug\net10.0\InventoryManangement.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\bin\Debug\net10.0\InventoryManangement.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\bin\Debug\net10.0\InventoryManangement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\bin\Debug\net10.0\InventoryManangement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\refint\InventoryManangement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\InventoryManangement.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\InventoryManangement\obj\Debug\net10.0\ref\InventoryManangement.dll

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\bin\Debug\net10.0\Handson-6.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\bin\Debug\net10.0\Handson-6.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\bin\Debug\net10.0\Handson-6.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\bin\Debug\net10.0\Handson-6.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\bin\Debug\net10.0\Handson-6.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\refint\Handson-6.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\Handson-6.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-6-Handson-12-Jan-26\Handson-6\obj\Debug\net10.0\ref\Handson-6.dll

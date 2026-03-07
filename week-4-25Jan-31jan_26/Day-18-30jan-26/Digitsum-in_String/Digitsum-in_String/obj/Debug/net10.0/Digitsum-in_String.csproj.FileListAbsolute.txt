@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\bin\Debug\net10.0\Digitsum-in_String.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\bin\Debug\net10.0\Digitsum-in_String.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\bin\Debug\net10.0\Digitsum-in_String.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\bin\Debug\net10.0\Digitsum-in_String.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\bin\Debug\net10.0\Digitsum-in_String.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\refint\Digitsum-in_String.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\Digitsum-in_String.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\Digitsum-in_String\Digitsum-in_String\obj\Debug\net10.0\ref\Digitsum-in_String.dll

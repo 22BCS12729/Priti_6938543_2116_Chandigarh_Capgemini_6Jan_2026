@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\bin\Debug\net10.0\SearcElement.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\bin\Debug\net10.0\SearcElement.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\bin\Debug\net10.0\SearcElement.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\bin\Debug\net10.0\SearcElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\bin\Debug\net10.0\SearcElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\refint\SearcElement.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\SearcElement.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-7-Handson-13-jan-26\SearcElement\obj\Debug\net10.0\ref\SearcElement.dll

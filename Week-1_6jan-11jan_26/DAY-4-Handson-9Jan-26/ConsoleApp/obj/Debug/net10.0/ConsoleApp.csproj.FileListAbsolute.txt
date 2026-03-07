@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\bin\Debug\net10.0\ConsoleApp.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\bin\Debug\net10.0\ConsoleApp.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\bin\Debug\net10.0\ConsoleApp.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\bin\Debug\net10.0\ConsoleApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\bin\Debug\net10.0\ConsoleApp.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\refint\ConsoleApp.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ConsoleApp.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson\ConsoleApp\obj\Debug\net10.0\ref\ConsoleApp.dll

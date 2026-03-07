@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "StudentScholarshipScheme/1.0.0": {
+        "runtime": {
+          "StudentScholarshipScheme.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "StudentScholarshipScheme/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

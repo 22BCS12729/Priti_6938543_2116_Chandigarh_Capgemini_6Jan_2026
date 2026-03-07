@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\ShoppingCartApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{0E819770-4292-4EBB-844C-B338D441B0FE}|ShoppingCartApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\shoppingcartapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E819770-4292-4EBB-844C-B338D441B0FE}|ShoppingCartApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{0E819770-4292-4EBB-844C-B338D441B0FE}|ShoppingCartApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-7-16feb-21 feb\\26-handson-16feb\\shoppingcartapp\\discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{0E819770-4292-4EBB-844C-B338D441B0FE}|ShoppingCartApp.csproj|solutionrelative:discountservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "DiscountService.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\ShoppingCartApp\\DiscountService.cs",
+              "RelativeDocumentMoniker": "DiscountService.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\ShoppingCartApp\\DiscountService.cs*",
+              "RelativeToolTip": "DiscountService.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:36:16.666Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\ShoppingCartApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-7-16feb-21 feb\\26-Handson-16feb\\ShoppingCartApp\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-16T17:35:02.297Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

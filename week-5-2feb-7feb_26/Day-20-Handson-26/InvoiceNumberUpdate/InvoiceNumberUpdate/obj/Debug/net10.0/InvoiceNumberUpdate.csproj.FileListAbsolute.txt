@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\bin\Debug\net10.0\InvoiceNumberUpdate.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\bin\Debug\net10.0\InvoiceNumberUpdate.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\bin\Debug\net10.0\InvoiceNumberUpdate.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\bin\Debug\net10.0\InvoiceNumberUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\bin\Debug\net10.0\InvoiceNumberUpdate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\refint\InvoiceNumberUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\InvoiceNumberUpdate.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\InvoiceNumberUpdate\InvoiceNumberUpdate\obj\Debug\net10.0\ref\InvoiceNumberUpdate.dll

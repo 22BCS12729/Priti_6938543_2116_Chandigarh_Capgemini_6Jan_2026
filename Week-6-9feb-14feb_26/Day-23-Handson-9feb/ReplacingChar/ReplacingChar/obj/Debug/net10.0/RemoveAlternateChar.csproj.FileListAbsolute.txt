@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\bin\Debug\net10.0\RemoveAlternateChar.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\bin\Debug\net10.0\RemoveAlternateChar.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\bin\Debug\net10.0\RemoveAlternateChar.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\bin\Debug\net10.0\RemoveAlternateChar.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\bin\Debug\net10.0\RemoveAlternateChar.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\refint\RemoveAlternateChar.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\RemoveAlternateChar.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\ReplacingChar\ReplacingChar\obj\Debug\net10.0\ref\RemoveAlternateChar.dll

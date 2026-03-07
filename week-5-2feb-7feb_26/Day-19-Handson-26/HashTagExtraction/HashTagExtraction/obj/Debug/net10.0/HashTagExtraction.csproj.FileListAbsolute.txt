@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\bin\Debug\net10.0\HashTagExtraction.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\bin\Debug\net10.0\HashTagExtraction.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\bin\Debug\net10.0\HashTagExtraction.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\bin\Debug\net10.0\HashTagExtraction.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\bin\Debug\net10.0\HashTagExtraction.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\refint\HashTagExtraction.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\HashTagExtraction.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-19-Handson-26\HashTagExtraction\HashTagExtraction\obj\Debug\net10.0\ref\HashTagExtraction.dll

@@ -1,0 +1,4 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RevPipe\RevPipe\obj\Debug\net10.0\RevPipe.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RevPipe\RevPipe\obj\Debug\net10.0\RevPipe.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RevPipe\RevPipe\obj\Debug\net10.0\RevPipe.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-23-Handson-9feb\RevPipe\RevPipe\obj\Debug\net10.0\RevPipe.csproj.CoreCompileInputs.cache

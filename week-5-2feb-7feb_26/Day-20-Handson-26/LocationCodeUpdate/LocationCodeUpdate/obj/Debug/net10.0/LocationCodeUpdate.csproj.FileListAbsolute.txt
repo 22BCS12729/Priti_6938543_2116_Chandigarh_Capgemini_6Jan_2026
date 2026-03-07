@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\bin\Debug\net10.0\LocationCodeUpdate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\refint\LocationCodeUpdate.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\LocationCodeUpdate.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-20-Handson-26\LocationCodeUpdate\LocationCodeUpdate\obj\Debug\net10.0\ref\LocationCodeUpdate.dll

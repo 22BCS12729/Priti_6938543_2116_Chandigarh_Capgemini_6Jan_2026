@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\bin\Debug\net10.0\MaxDiffIn Array.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\bin\Debug\net10.0\MaxDiffIn Array.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\bin\Debug\net10.0\MaxDiffIn Array.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\bin\Debug\net10.0\MaxDiffIn Array.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\bin\Debug\net10.0\MaxDiffIn Array.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\refint\MaxDiffIn Array.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\MaxDiffIn Array.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\MaxDiffIn Array\obj\Debug\net10.0\ref\MaxDiffIn Array.dll

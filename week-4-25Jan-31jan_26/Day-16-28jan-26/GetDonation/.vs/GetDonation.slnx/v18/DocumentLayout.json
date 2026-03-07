@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-16-28jan-26\\GetDonation\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{2F546E58-EDD3-928F-A9B7-D4B36A0A6ADC}|GetDonation\\GetDonation.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-16-28jan-26\\getdonation\\getdonation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F546E58-EDD3-928F-A9B7-D4B36A0A6ADC}|GetDonation\\GetDonation.csproj|solutionrelative:getdonation\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{2F546E58-EDD3-928F-A9B7-D4B36A0A6ADC}|GetDonation\\GetDonation.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-4-25jan-31jan_26\\day-16-28jan-26\\getdonation\\getdonation\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{2F546E58-EDD3-928F-A9B7-D4B36A0A6ADC}|GetDonation\\GetDonation.csproj|solutionrelative:getdonation\\donation.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Donation.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-16-28jan-26\\GetDonation\\GetDonation\\Donation.cs",
+              "RelativeDocumentMoniker": "GetDonation\\Donation.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-16-28jan-26\\GetDonation\\GetDonation\\Donation.cs",
+              "RelativeToolTip": "GetDonation\\Donation.cs",
+              "ViewState": "AgIAAAgAAAAAAAAAAADwvy0AAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-14T04:43:24.945Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-16-28jan-26\\GetDonation\\GetDonation\\Program.cs",
+              "RelativeDocumentMoniker": "GetDonation\\Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\week-4-25Jan-31jan_26\\Day-16-28jan-26\\GetDonation\\GetDonation\\Program.cs",
+              "RelativeToolTip": "GetDonation\\Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-13T09:19:22.664Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

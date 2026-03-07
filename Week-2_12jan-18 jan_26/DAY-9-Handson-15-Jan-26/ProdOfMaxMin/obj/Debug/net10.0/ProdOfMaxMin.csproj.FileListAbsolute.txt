@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\bin\Debug\net10.0\ProdOfMaxMin.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\bin\Debug\net10.0\ProdOfMaxMin.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\bin\Debug\net10.0\ProdOfMaxMin.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\bin\Debug\net10.0\ProdOfMaxMin.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\bin\Debug\net10.0\ProdOfMaxMin.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\refint\ProdOfMaxMin.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ProdOfMaxMin.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProdOfMaxMin\obj\Debug\net10.0\ref\ProdOfMaxMin.dll

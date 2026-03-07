@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\bin\Debug\net10.0\CountDivCop.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\bin\Debug\net10.0\CountDivCop.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\bin\Debug\net10.0\CountDivCop.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\bin\Debug\net10.0\CountDivCop.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\bin\Debug\net10.0\CountDivCop.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\refint\CountDivCop.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\CountDivCop.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-5-2feb-7feb_26\Day-22-Handson-26\CountDivCop\CountDivCop\obj\Debug\net10.0\ref\CountDivCop.dll

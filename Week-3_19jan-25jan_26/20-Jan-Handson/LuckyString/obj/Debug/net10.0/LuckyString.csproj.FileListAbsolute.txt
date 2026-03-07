@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\bin\Debug\net10.0\LuckyString.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\bin\Debug\net10.0\LuckyString.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\bin\Debug\net10.0\LuckyString.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\bin\Debug\net10.0\LuckyString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\bin\Debug\net10.0\LuckyString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\refint\LuckyString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\LuckyString.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\20-Jan-Handson\LuckyString\obj\Debug\net10.0\ref\LuckyString.dll

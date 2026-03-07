@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\bin\Debug\net10.0\FactoryRobot.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\bin\Debug\net10.0\FactoryRobot.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\bin\Debug\net10.0\FactoryRobot.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\bin\Debug\net10.0\FactoryRobot.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\bin\Debug\net10.0\FactoryRobot.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\refint\FactoryRobot.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\FactoryRobot.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-9-1march-6march_26\Handson-33-1march-26\FactoryRobot\obj\Debug\net10.0\ref\FactoryRobot.dll

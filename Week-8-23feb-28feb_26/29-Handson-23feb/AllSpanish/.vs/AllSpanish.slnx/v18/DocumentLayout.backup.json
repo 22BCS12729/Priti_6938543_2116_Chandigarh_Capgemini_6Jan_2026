@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\AllSpanish\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{88FF41A4-A8CC-4DA5-BCED-4C49749B86FB}|AllSpanish.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\allspanish\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FF41A4-A8CC-4DA5-BCED-4C49749B86FB}|AllSpanish.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{88FF41A4-A8CC-4DA5-BCED-4C49749B86FB}|AllSpanish.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\allspanish\\dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{88FF41A4-A8CC-4DA5-BCED-4C49749B86FB}|AllSpanish.csproj|solutionrelative:dish.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Dish.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\AllSpanish\\Dish.cs",
+              "RelativeDocumentMoniker": "Dish.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\AllSpanish\\Dish.cs*",
+              "RelativeToolTip": "Dish.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T02:34:58.743Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\AllSpanish\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\AllSpanish\\Program.cs*",
+              "RelativeToolTip": "Program.cs*",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-24T02:34:29.024Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

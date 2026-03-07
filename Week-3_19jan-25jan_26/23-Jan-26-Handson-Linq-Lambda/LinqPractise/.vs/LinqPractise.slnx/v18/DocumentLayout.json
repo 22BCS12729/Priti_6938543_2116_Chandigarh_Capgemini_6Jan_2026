@@ -1,0 +1,71 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\23-jan-26-handson-linq-lambda\\linqpractise\\linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|solutionrelative:linq.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\23-jan-26-handson-linq-lambda\\linqpractise\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-3_19jan-25jan_26\\23-jan-26-handson-linq-lambda\\linqpractise\\xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{AA51F8B1-C695-90E3-D53E-1C812BB9E235}|LinqPractise.csproj|solutionrelative:xmlfile1.xml||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "XMLFile1.xml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\XMLFile1.xml",
+              "RelativeDocumentMoniker": "XMLFile1.xml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\XMLFile1.xml",
+              "RelativeToolTip": "XMLFile1.xml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAQAAAAPAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.003576|",
+              "WhenOpened": "2026-01-23T07:13:24.391Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "LINQ.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\LINQ.cs",
+              "RelativeDocumentMoniker": "LINQ.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\LINQ.cs",
+              "RelativeToolTip": "LINQ.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAAAAgAAAAXAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:35:40.694Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-3_19jan-25jan_26\\23-Jan-26-Handson-Linq-Lambda\\LinqPractise\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-01-23T06:34:07.253Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\bin\Debug\net10.0\MaxRepProg.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\bin\Debug\net10.0\MaxRepProg.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\bin\Debug\net10.0\MaxRepProg.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\bin\Debug\net10.0\MaxRepProg.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\bin\Debug\net10.0\MaxRepProg.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\refint\MaxRepProg.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\MaxRepProg.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-1_6jan-11jan_26\DAY-4-Handson-9Jan-26\MaxRepProg\obj\Debug\net10.0\ref\MaxRepProg.dll

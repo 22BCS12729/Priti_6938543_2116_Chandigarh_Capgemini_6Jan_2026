@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v10.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v10.0": {
+      "AddElementArrays/1.0.0": {
+        "runtime": {
+          "AddElementArrays.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "AddElementArrays/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\bin\Debug\net10.0\CustomerService.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\bin\Debug\net10.0\CustomerService.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\bin\Debug\net10.0\CustomerService.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\bin\Debug\net10.0\CustomerService.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\bin\Debug\net10.0\CustomerService.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\refint\CustomerService.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\CustomerService.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\23-jan-Handson\CustomerService\obj\Debug\net10.0\ref\CustomerService.dll

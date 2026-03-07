@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\bin\Debug\net10.0\ProjectCaseStudy.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\bin\Debug\net10.0\ProjectCaseStudy.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\bin\Debug\net10.0\ProjectCaseStudy.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\bin\Debug\net10.0\ProjectCaseStudy.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\bin\Debug\net10.0\ProjectCaseStudy.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\refint\ProjectCaseStudy.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ProjectCaseStudy.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-2_12jan-18 jan_26\DAY-9-Handson-15-Jan-26\ProjectCaseStudy\obj\Debug\net10.0\ref\ProjectCaseStudy.dll

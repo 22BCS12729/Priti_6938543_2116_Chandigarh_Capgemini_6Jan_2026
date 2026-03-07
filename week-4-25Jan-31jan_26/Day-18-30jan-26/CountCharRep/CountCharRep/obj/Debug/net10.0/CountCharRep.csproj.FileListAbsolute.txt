@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\bin\Debug\net10.0\CountCharRep.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\bin\Debug\net10.0\CountCharRep.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\bin\Debug\net10.0\CountCharRep.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\bin\Debug\net10.0\CountCharRep.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\bin\Debug\net10.0\CountCharRep.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\refint\CountCharRep.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\CountCharRep.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-18-30jan-26\CountCharRep\CountCharRep\obj\Debug\net10.0\ref\CountCharRep.dll

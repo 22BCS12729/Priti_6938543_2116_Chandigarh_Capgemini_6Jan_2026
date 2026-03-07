@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\bin\Debug\net10.0\LongestSubString.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\bin\Debug\net10.0\LongestSubString.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\bin\Debug\net10.0\LongestSubString.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\bin\Debug\net10.0\LongestSubString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\bin\Debug\net10.0\LongestSubString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\refint\LongestSubString.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\LongestSubString.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-3_19jan-25jan_26\27-Jan-Handson\LongestSubString\obj\Debug\net10.0\ref\LongestSubString.dll

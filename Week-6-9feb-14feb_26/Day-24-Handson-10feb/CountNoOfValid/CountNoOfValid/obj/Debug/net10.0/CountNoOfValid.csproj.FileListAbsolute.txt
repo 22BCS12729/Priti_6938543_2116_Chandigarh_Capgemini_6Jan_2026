@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\bin\Debug\net10.0\CountNoOfValid.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\bin\Debug\net10.0\CountNoOfValid.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\bin\Debug\net10.0\CountNoOfValid.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\bin\Debug\net10.0\CountNoOfValid.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\bin\Debug\net10.0\CountNoOfValid.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\refint\CountNoOfValid.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\CountNoOfValid.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-6-9feb-14feb_26\Day-24-Handson-10feb\CountNoOfValid\CountNoOfValid\obj\Debug\net10.0\ref\CountNoOfValid.dll

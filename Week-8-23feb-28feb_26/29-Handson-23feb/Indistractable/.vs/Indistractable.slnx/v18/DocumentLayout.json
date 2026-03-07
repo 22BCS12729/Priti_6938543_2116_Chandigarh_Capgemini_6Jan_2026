@@ -1,0 +1,54 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\Indistractable\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{C55933D9-8997-4177-80EE-75FA9143BC7D}|Indistractable.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\indistractable\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55933D9-8997-4177-80EE-75FA9143BC7D}|Indistractable.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{C55933D9-8997-4177-80EE-75FA9143BC7D}|Indistractable.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-8-23feb-28feb_26\\29-handson-23feb\\indistractable\\bookcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{C55933D9-8997-4177-80EE-75FA9143BC7D}|Indistractable.csproj|solutionrelative:bookcost.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "BookCost.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\Indistractable\\BookCost.cs",
+              "RelativeDocumentMoniker": "BookCost.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\Indistractable\\BookCost.cs",
+              "RelativeToolTip": "BookCost.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACoAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:42:59.126Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\Indistractable\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-8-23feb-28feb_26\\29-Handson-23feb\\Indistractable\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAswBkAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-02-25T17:42:15.395Z",
+              "EditorCaption": ""
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

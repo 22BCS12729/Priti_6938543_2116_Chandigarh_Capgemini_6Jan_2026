@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\bin\Debug\net10.0\GraduateCalculator.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\bin\Debug\net10.0\GraduateCalculator.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\bin\Debug\net10.0\GraduateCalculator.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\bin\Debug\net10.0\GraduateCalculator.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\bin\Debug\net10.0\GraduateCalculator.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\refint\GraduateCalculator.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\GraduateCalculator.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-7-16feb-21 feb\26-Handson-16feb\GraduateCalculator\obj\Debug\net10.0\ref\GraduateCalculator.dll

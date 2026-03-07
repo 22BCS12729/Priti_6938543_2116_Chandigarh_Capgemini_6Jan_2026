@@ -1,0 +1,14 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\bin\Debug\net10.0\GetDonation.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\bin\Debug\net10.0\GetDonation.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\bin\Debug\net10.0\GetDonation.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\bin\Debug\net10.0\GetDonation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\bin\Debug\net10.0\GetDonation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\refint\GetDonation.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\GetDonation.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\week-4-25Jan-31jan_26\Day-16-28jan-26\GetDonation\GetDonation\obj\Debug\net10.0\ref\GetDonation.dll
