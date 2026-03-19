@@ -1,0 +1,32 @@
+﻿@model Model_level_Validation.Models.Employee
+
+<h2>Add Employee</h2>
+
+<form method="post">
+
+    <div class="mb-3">
+
+        <label>Employee Name</label>
+
+        <input asp-for="Name" class="form-control" />
+
+    </div>
+
+    <div class="mb-3">
+
+        <label>Select Company</label>
+
+        <select asp-for="CompanyId"
+                asp-items="ViewBag.Companies"
+                class="form-control">
+        </select>
+
+    </div>
+
+    <button class="btn btn-primary">
+
+        Save
+
+    </button>
+
+</form>
