@@ -1,0 +1,50 @@
+﻿@model IEnumerable<Model_level_Validation.Models.Employee>
+
+<h2>Employees Dashboard</h2>
+
+<a asp-action="Create" class="btn btn-success mb-3">
+    Add Employee
+</a>
+
+<table class="table table-bordered">
+
+    <thead class="table-dark">
+
+        <tr>
+            <th>Employee Name</th>
+            <th>Company</th>
+            <th>Action</th>
+        </tr>
+
+    </thead>
+
+    <tbody>
+
+        @foreach (var emp in Model)
+        {
+
+            <tr>
+
+                <td>@emp.Name</td>
+
+                <td>@emp.Company.Name</td>
+
+                <td>
+
+                    <a asp-action="Delete"
+                           asp-route-id="@emp.EmployeeId"
+                           class="btn btn-danger">
+
+                        Delete
+
+                    </a>
+
+                </td>
+
+            </tr>
+
+        }
+
+    </tbody>
+
+</table>

@@ -1,0 +1,101 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-10-9mar-14mar_26\\handosn-35-9march\\productapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-10-9mar-14mar_26\\handosn-35-9march\\productapp\\views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|solutionrelative:views\\products\\list.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-10-9mar-14mar_26\\handosn-35-9march\\productapp\\controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|solutionrelative:controllers\\productscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-10-9mar-14mar_26\\handosn-35-9march\\productapp\\services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|solutionrelative:services\\productservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-10-9mar-14mar_26\\handosn-35-9march\\productapp\\services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B4B9845E-BF2E-B782-52FF-4C0D730C6670}|ProductApp.csproj|solutionrelative:services\\iproductservice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "List.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Views\\Products\\List.cshtml",
+              "RelativeDocumentMoniker": "Views\\Products\\List.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Views\\Products\\List.cshtml",
+              "RelativeToolTip": "Views\\Products\\List.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-09T10:25:16.727Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:15:25.09Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "ProductsController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Controllers\\ProductsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductsController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Controllers\\ProductsController.cs",
+              "RelativeToolTip": "Controllers\\ProductsController.cs",
+              "ViewState": "AgIAAAMAAAAAAAAAAAAgwBQAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:20:40.278Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "ProductService.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Services\\ProductService.cs",
+              "RelativeDocumentMoniker": "Services\\ProductService.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Services\\ProductService.cs",
+              "RelativeToolTip": "Services\\ProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:12:49.871Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "IProductService.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Services\\IProductService.cs",
+              "RelativeDocumentMoniker": "Services\\IProductService.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-10-9mar-14mar_26\\Handosn-35-9March\\ProductApp\\Services\\IProductService.cs",
+              "RelativeToolTip": "Services\\IProductService.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-09T10:06:05.272Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
