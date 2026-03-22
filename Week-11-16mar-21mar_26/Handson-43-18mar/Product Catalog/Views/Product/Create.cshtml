@@ -1,0 +1,19 @@
+﻿@model StudentApp.Models.Product
+
+<div class="container mt-4">
+    <h2>Add Product</h2>
+
+    <form asp-action="Create" method="post" class="card p-4 shadow">
+
+        <input asp-for="Name" class="form-control mb-2" placeholder="Product Name" />
+
+        <input asp-for="Description" class="form-control mb-2" placeholder="Description" />
+
+        <input asp-for="Price" class="form-control mb-2" placeholder="Price" />
+
+        <input asp-for="ImageUrl" class="form-control mb-2" placeholder="Image URL" />
+
+        <button class="btn btn-success">Save</button>
+
+    </form>
+</div>

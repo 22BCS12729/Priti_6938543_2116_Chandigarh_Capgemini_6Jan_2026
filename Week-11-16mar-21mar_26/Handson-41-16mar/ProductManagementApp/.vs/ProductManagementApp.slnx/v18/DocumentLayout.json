@@ -1,0 +1,229 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:views\\product\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:views\\product\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:views\\product\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:filters\\logactionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Migrations\\20260316170817_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Migrations\\20260316170817_InitialCreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\productmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:productmanagementapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:filters\\customexceptionfilter.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\productmanagementapp\\migrations\\20260316171705_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{406B6691-4AE9-2CAB-C122-D1D883D97D6C}|ProductManagementApp.csproj|solutionrelative:migrations\\20260316171705_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 3,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA8AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:11:12.134Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Create.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Create.cshtml",
+              "RelativeToolTip": "Views\\Product\\Create.cshtml",
+              "ViewState": "AgIAAAgAAAAAAAAAAAAiwB4AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T13:11:15.305Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Details.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Details.cshtml",
+              "RelativeToolTip": "Views\\Product\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T13:11:14.739Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Product\\Index.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Views\\Product\\Index.cshtml",
+              "RelativeToolTip": "Views\\Product\\Index.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAowDkAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T13:11:15.34Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:11:15.373Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "LogActionFilter.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Filters\\LogActionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\LogActionFilter.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Filters\\LogActionFilter.cs",
+              "RelativeToolTip": "Filters\\LogActionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAkwBAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:11:14.442Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCIAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:11:15.416Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 12,
+              "Title": "20260316171705_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Migrations\\20260316171705_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260316171705_InitialCreate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Migrations\\20260316171705_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260316171705_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:17:05.232Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "20260316170817_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Migrations\\20260316170817_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260316170817_InitialCreate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Migrations\\20260316170817_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260316170817_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:08:17.62Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T17:06:29.212Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T13:11:15.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "ProductManagementApp.csproj",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\ProductManagementApp.csproj",
+              "RelativeDocumentMoniker": "ProductManagementApp.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\ProductManagementApp.csproj",
+              "RelativeToolTip": "ProductManagementApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T13:11:14.224Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "CustomExceptionFilter.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Filters\\CustomExceptionFilter.cs",
+              "RelativeDocumentMoniker": "Filters\\CustomExceptionFilter.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\ProductManagementApp\\Filters\\CustomExceptionFilter.cs",
+              "RelativeToolTip": "Filters\\CustomExceptionFilter.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T13:11:14.393Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

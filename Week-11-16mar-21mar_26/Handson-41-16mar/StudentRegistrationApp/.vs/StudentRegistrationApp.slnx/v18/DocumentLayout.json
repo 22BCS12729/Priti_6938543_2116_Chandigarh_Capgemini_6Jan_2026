@@ -1,0 +1,165 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:views\\student\\register.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\migrations\\20260316071859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:migrations\\20260316071859_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\studentregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:studentregistrationapp.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-41-16mar\\studentregistrationapp\\views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{290B5B4F-4ED9-BAE1-3B0B-39281493A839}|StudentRegistrationApp.csproj|solutionrelative:views\\student\\details.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-16T07:11:36.747Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Register.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Views\\Student\\Register.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Register.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Views\\Student\\Register.cshtml",
+              "RelativeToolTip": "Views\\Student\\Register.cshtml",
+              "ViewState": "AgIAAD0AAAAAAAAAAAAQwFEAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:57:24.144Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "20260316071859_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Migrations\\20260316071859_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260316071859_InitialCreate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Migrations\\20260316071859_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260316071859_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAoAAABFAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:18:59.939Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:08:58.198Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "StudentRegistrationApp.csproj",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "RelativeDocumentMoniker": "StudentRegistrationApp.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\StudentRegistrationApp.csproj",
+              "RelativeToolTip": "StudentRegistrationApp.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-16T07:08:02.541Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA4AAAAAAAAAAAAwwCMAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T07:09:52.328Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:55:07.412Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAABgAAAAAAAAAAAAwwCYAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-16T06:56:22.955Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "Details.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Views\\Student\\Details.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Details.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-41-16mar\\StudentRegistrationApp\\Views\\Student\\Details.cshtml",
+              "RelativeToolTip": "Views\\Student\\Details.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-16T06:58:05.329Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

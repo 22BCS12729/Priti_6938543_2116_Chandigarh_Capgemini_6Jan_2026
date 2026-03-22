@@ -1,0 +1,202 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\migrations\\20260318063810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:migrations\\20260318063810_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:controllers\\studentcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:data\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\views\\student\\_editmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:views\\student\\_editmodal.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:views\\student\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:views\\student\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:views\\shared\\_layout.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:models\\student.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\student management system\\student management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{B14ED617-E8D5-3854-7C62-6337ECF5BA24}|Student Management System.csproj|solutionrelative:student management system.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "20260318063810_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Migrations\\20260318063810_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260318063810_InitialCreate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Migrations\\20260318063810_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260318063810_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:38:11.557Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAB8AAAAAAAAAAAAAAB8AAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:18:07.378Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "StudentController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeDocumentMoniker": "Controllers\\StudentController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Controllers\\StudentController.cs",
+              "RelativeToolTip": "Controllers\\StudentController.cs",
+              "ViewState": "AgIAAAwAAAAAAAAAAAAnwBAAAAAIAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:20:22.444Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAsAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-18T06:18:23.407Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\ApplicationDbContext.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Data\\ApplicationDbContext.cs",
+              "RelativeToolTip": "Data\\ApplicationDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:17:49.378Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "_EditModal.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\_EditModal.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\_EditModal.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\_EditModal.cshtml",
+              "RelativeToolTip": "Views\\Student\\_EditModal.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAA/AAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:24:28.674Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Create.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\Create.cshtml",
+              "RelativeToolTip": "Views\\Student\\Create.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:23:38.159Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Student\\Index.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Student\\Index.cshtml",
+              "RelativeToolTip": "Views\\Student\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAEgAAAAJAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:22:55.558Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "_Layout.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeDocumentMoniker": "Views\\Shared\\_Layout.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Views\\Shared\\_Layout.cshtml",
+              "RelativeToolTip": "Views\\Shared\\_Layout.cshtml",
+              "ViewState": "AgIAADgAAAAAAAAAAAAgwEwAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-18T06:20:55.191Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "Student.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Models\\Student.cs",
+              "RelativeDocumentMoniker": "Models\\Student.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Models\\Student.cs",
+              "RelativeToolTip": "Models\\Student.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-18T06:16:58.201Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Student Management System.csproj",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Student Management System.csproj",
+              "RelativeDocumentMoniker": "Student Management System.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\Student Management System\\Student Management System.csproj",
+              "RelativeToolTip": "Student Management System.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-18T06:17:13.971Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

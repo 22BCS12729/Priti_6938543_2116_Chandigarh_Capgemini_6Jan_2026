@@ -1,0 +1,99 @@
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\appsettings.Development.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\appsettings.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.staticwebassets.runtime.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.staticwebassets.endpoints.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.exe
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.deps.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.runtimeconfig.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\bin\Debug\net10.0\Library Management System.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\rpswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.GeneratedMSBuildEditorConfig.editorconfig
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.AssemblyInfoInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.AssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.csproj.CoreCompileInputs.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.MvcApplicationPartsAssemblyInfo.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.RazorAssemblyInfo.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.RazorAssemblyInfo.cs
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.sourcelink.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\rjimswa.dswa.cache.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\rjsmrazor.dswa.cache.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\rjsmcshtml.dswa.cache.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\scopedcss\Views\Shared\_Layout.cshtml.rz.scp.css
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\scopedcss\bundle\Library Management System.styles.css
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\scopedcss\projectbundle\Library Management System.bundle.scp.css
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\1pqhjpp05k-{0}-b9sayid5wm-b9sayid5wm.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\2ydpacjf9g-{0}-61n19gt1b8-61n19gt1b8.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\w663x2fa1m-{0}-xtxxf3hu2r-xtxxf3hu2r.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\j8mjtpidqr-{0}-bqjiyaj88i-bqjiyaj88i.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\g5hrviymnp-{0}-c2jlpeoesf-c2jlpeoesf.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\wvbyl8hk6a-{0}-erw9l3u2r3-erw9l3u2r3.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\b9hj3amvis-{0}-aexeepp0ev-aexeepp0ev.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\zwohw10pfc-{0}-d7shbmvgxk-d7shbmvgxk.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\q519r3qvte-{0}-ausgxo2sd3-ausgxo2sd3.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\4nuru7l071-{0}-k8d9w2qqmf-k8d9w2qqmf.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\539of8mm7t-{0}-cosvhxvwiu-cosvhxvwiu.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\4sbgts7qoi-{0}-ub07r2b239-ub07r2b239.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\yik9p08d94-{0}-fvhpjtyr6v-fvhpjtyr6v.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\o9lnuoh6n0-{0}-b7pk76d08c-b7pk76d08c.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\atiit83j38-{0}-fsbi9cje9m-fsbi9cje9m.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\23ebzroktc-{0}-rzd6atqjts-rzd6atqjts.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\lguiibbuw2-{0}-ee0r1s7dh0-ee0r1s7dh0.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\x2aalgxrvw-{0}-dxx9fxp4il-dxx9fxp4il.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\9wo0d2j1nu-{0}-jd9uben2k1-jd9uben2k1.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\gddgix49lw-{0}-khv3u5hwcm-khv3u5hwcm.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\edwn5wrb6l-{0}-r4e9w2rdcm-r4e9w2rdcm.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\mbv68wvuhm-{0}-lcd1t2u6c8-lcd1t2u6c8.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\a3pnkd6kjd-{0}-c2oey78nd0-c2oey78nd0.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\l2g8hq2tg4-{0}-tdbxkamptv-tdbxkamptv.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\1f9sl65hnf-{0}-j5mq2jizvt-j5mq2jizvt.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\qmme3nnxoc-{0}-06098lyss8-06098lyss8.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\27z2yj4ix7-{0}-nvvlpmu67g-nvvlpmu67g.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\6kbva0m1ch-{0}-s35ty4nyc5-s35ty4nyc5.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\5balwaeyuc-{0}-pj5nd1wqec-pj5nd1wqec.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\wwtpijvxf9-{0}-46ein0sx1k-46ein0sx1k.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\u75zb67y0q-{0}-v0zj4ognzu-v0zj4ognzu.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\79bc3ybvaw-{0}-37tfw0ft22-37tfw0ft22.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\715f80bnmp-{0}-hrwsygsryq-hrwsygsryq.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\imn0mttlfq-{0}-pk9g2wxc8p-pk9g2wxc8p.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\r1fazj811o-{0}-ft3s53vfgj-ft3s53vfgj.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\lx1ipcym6m-{0}-6cfz1n2cew-6cfz1n2cew.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\vrf3ta5bfr-{0}-6pdc2jztkx-6pdc2jztkx.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\p1op9vv35u-{0}-493y06b0oq-493y06b0oq.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\4yrwr4ydz2-{0}-iovd86k7lj-iovd86k7lj.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\bkbzuk5q1n-{0}-vr1egmr9el-vr1egmr9el.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\szm6hvh2b7-{0}-kbrnm935zg-kbrnm935zg.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\wybs42fn2o-{0}-jj8uyg4cgr-jj8uyg4cgr.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\6oupa0fxjg-{0}-y7v9cxd14o-y7v9cxd14o.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\ce2an3qe2n-{0}-notf2xhcfb-notf2xhcfb.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\dlq9je1shf-{0}-h1s4sie4z3-h1s4sie4z3.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\u7ajq6jumb-{0}-63fj8s7r0e-63fj8s7r0e.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\7e6qriiu2t-{0}-0j3bgjxly4-0j3bgjxly4.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\zuyf8dinqg-{0}-47otxtyo56-47otxtyo56.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\s1duz1slxs-{0}-4v8eqarkd7-4v8eqarkd7.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\9jrzg5r6v8-{0}-356vix0kms-356vix0kms.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\o6ptymsedl-{0}-83jwlth58m-83jwlth58m.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\zkdwecqld1-{0}-mrlpezrjn3-mrlpezrjn3.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\i3chvh38m8-{0}-lzl9nlhx6b-lzl9nlhx6b.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\o251qhspdq-{0}-ag7o75518u-ag7o75518u.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\868azrtay8-{0}-x0q3zqp4vz-x0q3zqp4vz.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\9dr07rbog2-{0}-0i3buxo5is-0i3buxo5is.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\qhf5nk25j5-{0}-o1o13a6vjx-o1o13a6vjx.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\euvpeisx3w-{0}-ttgo8qnofa-ttgo8qnofa.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\he3kcvtjsh-{0}-2z0ns9nrw6-2z0ns9nrw6.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\j4zqu8jlzg-{0}-muycvpuwrr-muycvpuwrr.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\yrtt99z1ha-{0}-87fc7y1x7t-87fc7y1x7t.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\aij7vc1k3s-{0}-mlv21k5csn-mlv21k5csn.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\9x5zis5nd4-{0}-3ia4qgecmg-3ia4qgecmg.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\compressed\x7s9ny2cwu-{0}-3ia4qgecmg-3ia4qgecmg.gz
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\staticwebassets.build.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\staticwebassets.build.json.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\staticwebassets.development.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\staticwebassets.build.endpoints.json
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\swae.build.ex.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\staticwebassets.upToDateCheck.txt
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\refint\Library Management System.dll
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.pdb
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\Library Management System.genruntimeconfig.cache
+D:\Capegemini_CU_Sec3_.NetwithAzzure_Priti\Week-11-16mar-21mar_26\Handson-42-17mar\Library Management System\obj\Debug\net10.0\ref\Library Management System.dll

@@ -1,0 +1,153 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:controllers\\roomscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:views\\booking\\create.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\controllers\\bookingcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:controllers\\bookingcontrolller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:views\\rooms\\index.cshtml||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:models\\booking.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-43-18mar\\hotelbookingapp\\models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{9BDE2148-44F4-1EAF-4673-3280F4A80638}|HotelBookingApp.csproj|solutionrelative:models\\room.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{0ad07096-bba9-4900-a651-0598d26f6d24}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAQwB0AAAArAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:54:46.765Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "RoomsController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Controllers\\RoomsController.cs",
+              "RelativeDocumentMoniker": "Controllers\\RoomsController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Controllers\\RoomsController.cs",
+              "RelativeToolTip": "Controllers\\RoomsController.cs",
+              "ViewState": "AgIAAAUAAAAAAAAAAAAAAEMAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:45:43.687Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Create.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Views\\Booking\\Create.cshtml",
+              "RelativeDocumentMoniker": "Views\\Booking\\Create.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Views\\Booking\\Create.cshtml",
+              "RelativeToolTip": "Views\\Booking\\Create.cshtml",
+              "ViewState": "AgIAACYAAAAAAAAAAAAAACYAAAAHAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T05:53:22.809Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "BookingControlller.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Controllers\\BookingControlller.cs",
+              "RelativeDocumentMoniker": "Controllers\\BookingControlller.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Controllers\\BookingControlller.cs",
+              "RelativeToolTip": "Controllers\\BookingControlller.cs",
+              "ViewState": "AgIAACgAAAAAAAAAAAAAACgAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:49:27.457Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "Index.cshtml",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Views\\Rooms\\Index.cshtml",
+              "RelativeDocumentMoniker": "Views\\Rooms\\Index.cshtml",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Views\\Rooms\\Index.cshtml",
+              "RelativeToolTip": "Views\\Rooms\\Index.cshtml",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAADMAAAAGAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000759|",
+              "WhenOpened": "2026-03-19T05:46:30.315Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Booking.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Booking.cs",
+              "RelativeDocumentMoniker": "Models\\Booking.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Booking.cs",
+              "RelativeToolTip": "Models\\Booking.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABIAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:44:37.361Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA4AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:44:15.369Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "Room.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Room.cs",
+              "RelativeDocumentMoniker": "Models\\Room.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-43-18mar\\HotelBookingApp\\Models\\Room.cs",
+              "RelativeToolTip": "Models\\Room.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABAAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-19T05:43:39.416Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

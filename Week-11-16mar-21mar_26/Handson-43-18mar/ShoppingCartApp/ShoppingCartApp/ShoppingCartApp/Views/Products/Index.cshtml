@@ -1,0 +1,50 @@
+﻿@model List<ShoppingCartApp.Models.Product>
+
+@{
+    ViewData["Title"] = "Products";
+}
+
+<style>
+    .product-card:hover {
+        transform: scale(1.03);
+        transition: 0.3s;
+    }
+</style>
+
+<div class="container mt-5">
+
+    <h2 class="text-center mb-4">🛒 Our Products</h2>
+
+    <div class="row">
+
+        @foreach (var p in Model)
+        {
+            <div class="col-md-4 mb-4">
+                <div class="card shadow-lg product-card h-100">
+
+                    <!-- Product Image -->
+                    <img src="@p.ImageUrl" class="card-img-top"
+                         style="height:200px; object-fit:cover;" />
+
+                    <div class="card-body text-center">
+
+                        <!-- Product Name -->
+                        <h5 class="card-title">@p.Name</h5>
+
+                        <!-- Price -->
+                        <p class="text-success fw-bold fs-5">₹@p.Price</p>
+
+                        <!-- Button -->
+                        <a href="/Cart/Add/@p.Id" class="btn btn-success w-100">
+                            ➕ Add to Cart
+                        </a>
+
+                    </div>
+
+                </div>
+            </div>
+        }
+
+    </div>
+
+</div>

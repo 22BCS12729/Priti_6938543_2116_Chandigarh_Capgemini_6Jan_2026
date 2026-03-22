@@ -1,0 +1,16 @@
+﻿@model StudentManagementSystem.Models.Product
+
+<div class="container mt-5">
+    <div class="card shadow-lg p-4">
+        <h3 class="text-center mb-4">Add Product</h3>
+
+        <form method="post">
+
+            <input asp-for="Name" class="form-control mb-3" placeholder="Product Name" />
+            <input asp-for="Price" class="form-control mb-3" placeholder="Price" />
+
+            <button class="btn btn-success w-100">Add Product</button>
+
+        </form>
+    </div>
+</div>

@@ -1,0 +1,54 @@
+﻿@{
+    Layout = null;
+    ViewData["Title"] = "Login";
+}
+
+<style>
+    body {
+        margin: 0;
+        background: linear-gradient(135deg, #667eea, #764ba2);
+        height: 100vh;
+        display: flex;
+        justify-content: center;
+        align-items: center;
+        font-family: Arial;
+    }
+
+    .login-card {
+        background: white;
+        padding: 40px;
+        border-radius: 12px;
+        width: 350px;
+        box-shadow: 0 10px 25px rgba(0,0,0,0.2);
+        text-align: center;
+    }
+
+    .form-control {
+        width: 100%;
+        padding: 10px;
+        margin-bottom: 15px;
+        border-radius: 6px;
+        border: 1px solid #ccc;
+    }
+
+    .login-btn {
+        width: 100%;
+        padding: 10px;
+        background: #667eea;
+        border: none;
+        color: white;
+        border-radius: 6px;
+    }
+</style>
+
+<div class="login-card">
+    <h2>Student Management Login</h2>
+
+    <form method="post">
+        <input type="text" name="username" placeholder="Username" class="form-control" />
+        <input type="password" name="password" placeholder="Password" class="form-control" />
+        <button type="submit" class="login-btn">Login</button>
+
+        <p style="color:red">@ViewBag.Error</p>
+    </form>
+</div>

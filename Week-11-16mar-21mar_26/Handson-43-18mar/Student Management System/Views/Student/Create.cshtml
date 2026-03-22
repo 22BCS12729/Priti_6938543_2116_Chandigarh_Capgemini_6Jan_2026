@@ -1,0 +1,14 @@
+﻿@model StudentApp.Models.Student
+
+<div class="container mt-4">
+    <form asp-action="Create" method="post" class="card p-4 shadow">
+
+        <h3>Add Student</h3>
+
+        <input asp-for="Name" class="form-control mb-2" placeholder="Name" />
+        <input asp-for="Age" class="form-control mb-2" placeholder="Age" />
+        <input asp-for="Course" class="form-control mb-2" placeholder="Course" />
+
+        <button class="btn btn-success">Save</button>
+    </form>
+</div>

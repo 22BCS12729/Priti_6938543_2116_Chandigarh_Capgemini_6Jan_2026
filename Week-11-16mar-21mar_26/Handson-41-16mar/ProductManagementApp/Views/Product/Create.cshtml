@@ -1,0 +1,31 @@
+﻿@model ProductManagementApp.Models.Product
+
+<div class="container mt-4">
+
+    <h3>Add Product</h3>
+
+    <form method="post">
+
+        <div class="mb-3">
+            <label>Product Name</label>
+            <input asp-for="Name" class="form-control" />
+            <span asp-validation-for="Name" class="text-danger"></span>
+        </div>
+
+        <div class="mb-3">
+            <label>Price</label>
+            <input asp-for="Price" class="form-control" />
+            <span asp-validation-for="Price" class="text-danger"></span>
+        </div>
+
+        <button class="btn btn-success">
+            Add Product
+        </button>
+
+        <a asp-action="Index" class="btn btn-secondary">
+            Back
+        </a>
+
+    </form>
+
+</div>

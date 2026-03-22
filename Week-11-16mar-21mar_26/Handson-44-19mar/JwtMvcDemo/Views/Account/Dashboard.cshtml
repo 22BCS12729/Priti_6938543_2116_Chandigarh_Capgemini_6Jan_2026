@@ -1,0 +1,51 @@
+﻿@{
+    ViewData["Title"] = "Dashboard";
+}
+
+<div class="container mt-5">
+
+    <div class="card shadow-lg border-0 rounded-4 p-5 text-center">
+
+        <!-- Welcome Section -->
+        <h2 class="text-primary fw-bold mb-3">
+            👋 Welcome, @ViewBag.Username
+        </h2>
+
+        <p class="lead text-muted">
+            Welcome to your Student Portal Dashboard
+        </p>
+
+        <!-- Success Alert -->
+        <div class="alert alert-success mt-4">
+            ✅ JWT Authentication Successful
+        </div>
+
+        <!-- Info Section -->
+        <div class="row mt-4">
+
+            <div class="col-md-6">
+                <div class="card p-3 shadow-sm">
+                    <h5>Status</h5>
+                    <p class="text-success fw-bold">Logged In</p>
+                </div>
+            </div>
+
+            <div class="col-md-6">
+                <div class="card p-3 shadow-sm">
+                    <h5>Session</h5>
+                    <p class="text-success fw-bold">Active</p>
+                </div>
+            </div>
+
+        </div>
+
+        <!-- Logout Button -->
+        <div class="mt-5">
+            <a asp-action="Logout" class="btn btn-danger btn-lg px-5">
+                🚪 Logout
+            </a>
+        </div>
+
+    </div>
+
+</div>

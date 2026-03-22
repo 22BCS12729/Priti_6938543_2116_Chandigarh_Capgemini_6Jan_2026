@@ -1,0 +1,47 @@
+﻿@model List<BookViewModel>
+
+@{
+    ViewData["Title"] = "Library";
+}
+
+<h2 class="text-center text-primary mb-4">📚 Library Management System</h2>
+
+<div class="text-end mb-3">
+    <a href="/Books/Create" class="btn btn-success">➕ Add Book</a>
+</div>
+
+<div class="row">
+    @foreach (var book in Model)
+    {
+        <div class="col-md-4">
+            <div class="card shadow-lg border-0 rounded-4 mb-4">
+                
+                <div class="card-body">
+
+                    <h4 class="card-title text-primary fw-bold">
+                        @book.Title
+                    </h4>
+
+                    <hr />
+
+                    <p><b>👤 Author:</b> @book.Author</p>
+                    <p><b>📅 Year:</b> @book.PublishedYear</p>
+                    <p><b>📚 Genre:</b> @book.Genre</p>
+
+                    <span class="badge bg-@(book.IsAvailable ? "success" : "danger") p-2">
+                        @(book.IsAvailable ? "Available" : "Borrowed")
+                    </span>
+
+                    @if (!book.IsAvailable)
+                    {
+                        <p class="mt-2 text-danger">
+                            Borrowed by: <b>@book.BorrowerName</b>
+                        </p>
+                    }
+
+                </div>
+
+            </div>
+        </div>
+    }
+</div>

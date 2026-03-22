@@ -1,0 +1,102 @@
+﻿@using Microsoft.AspNetCore.Http
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="utf-8" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <title>@ViewData["Title"] - JwtMvcDemo</title>
+
+    <link rel="stylesheet" href="~/lib/bootstrap/dist/css/bootstrap.min.css" />
+    <link rel="stylesheet" href="~/css/site.css" asp-append-version="true" />
+    <link rel="stylesheet" href="~/JwtMvcDemo.styles.css" asp-append-version="true" />
+</head>
+
+<body>
+    <header>
+        <nav class="navbar navbar-expand-sm navbar-light bg-white border-bottom shadow-sm mb-3">
+            <div class="container-fluid">
+
+                <!-- Brand -->
+                <a class="navbar-brand fw-bold text-primary"
+                       asp-controller="Account"
+                       asp-action="Register">
+                    🎓 Student Portal
+                </a>
+
+                <!-- Toggle -->
+                <button class="navbar-toggler" type="button" data-bs-toggle="collapse"
+                        data-bs-target=".navbar-collapse">
+                    <span class="navbar-toggler-icon"></span>
+                </button>
+
+                <!-- Menu -->
+                <div class="navbar-collapse collapse d-sm-inline-flex justify-content-between">
+
+                    <ul class="navbar-nav flex-grow-1">
+
+                        <!-- Register -->
+                        <li class="nav-item">
+                            <a class="nav-link text-dark"
+                                   asp-controller="Account"
+                                   asp-action="Register">
+                                Register
+                            </a>
+                        </li>
+
+                        <!-- Login -->
+                        <li class="nav-item">
+                            <a class="nav-link text-dark"
+                                   asp-controller="Account"
+                                   asp-action="Login">
+                                Login
+                            </a>
+                        </li>
+
+                        <!-- Show only after login -->
+                        @if (Context.Session.GetString("JWToken") != null)
+                        {
+                            <li class="nav-item">
+                                <a class="nav-link text-success"
+                                       asp-controller="Account"
+                                       asp-action="Dashboard">
+                                    Dashboard
+                                </a>
+                            </li>
+
+                            <li class="nav-item">
+                                <a class="nav-link text-danger"
+                                       asp-controller="Account"
+                                       asp-action="Logout">
+                                    Logout
+                                </a>
+                            </li>
+                        }
+
+                    </ul>
+                </div>
+            </div>
+        </nav>
+    </header>
+
+    <!-- Page Content -->
+    <div class="container">
+        <main role="main" class="pb-3">
+            @RenderBody()
+        </main>
+    </div>
+
+    <!-- Footer -->
+    <footer class="border-top footer text-muted text-center py-2">
+        <div class="container">
+            © 2026 - JwtMvcDemo | Secure Student Portal
+        </div>
+    </footer>
+
+    <!-- Scripts -->
+    <script src="~/lib/jquery/dist/jquery.min.js"></script>
+    <script src="~/lib/bootstrap/dist/js/bootstrap.bundle.min.js"></script>
+    <script src="~/js/site.js" asp-append-version="true"></script>
+
+    @await RenderSectionAsync("Scripts", required: false)
+</body>
+</html>

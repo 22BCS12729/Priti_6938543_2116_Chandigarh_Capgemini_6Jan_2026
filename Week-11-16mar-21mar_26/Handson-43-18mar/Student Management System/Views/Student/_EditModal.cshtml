@@ -1,0 +1,22 @@
+﻿@model StudentApp.Models.Student
+
+<div class="modal fade" id="editModal">
+    <div class="modal-dialog">
+        <div class="modal-content p-4">
+
+            <form asp-action="Edit" method="post">
+
+                <input type="hidden" asp-for="Id" />
+
+                <input asp-for="Name" class="form-control mb-2" />
+                <input asp-for="Age" class="form-control mb-2" />
+                <input asp-for="Course" class="form-control mb-2" />
+
+                <button class="btn btn-success">Update</button>
+                <button type="button" class="btn btn-secondary" data-bs-dismiss="modal">Cancel</button>
+
+            </form>
+
+        </div>
+    </div>
+</div>
