@@ -1,0 +1,213 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:wwwroot\\index.html||{40D31677-CBC0-4297-A9EF-89D907823A98}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:controllers\\customercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:appsettings.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:ecommerceapi.csproj||{FA3CD31E-987B-443A-9B81-186104E8DAC1}|"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:controllers\\productcontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:controllers\\ordercontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\migrations\\20260323064901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:migrations\\20260323064901_initialcreate.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:data\\appdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:models\\customer.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|d:\\capegemini_cu_sec3_.netwithazzure_priti\\week-11-16mar-21mar_26\\handson-45-20mar\\ecommerceapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{5DC55AC5-3F42-9DBC-B445-8C52F2920A6D}|ECommerceAPI.csproj|solutionrelative:models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 2,
+          "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Program.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Program.cs",
+              "RelativeDocumentMoniker": "Program.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Program.cs",
+              "RelativeToolTip": "Program.cs",
+              "ViewState": "AgIAAA0AAAAAAAAAAAAmwCYAAAAKAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:31:33.513Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "Order.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "Models\\Order.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Order.cs",
+              "RelativeToolTip": "Models\\Order.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:23:56.472Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "index.html",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\wwwroot\\index.html",
+              "RelativeDocumentMoniker": "wwwroot\\index.html",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\wwwroot\\index.html",
+              "RelativeToolTip": "wwwroot\\index.html",
+              "ViewState": "AgIAAKkAAAAAAAAAAAAwwLoAAAAdAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001512|",
+              "WhenOpened": "2026-03-23T07:11:29.398Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "CustomerController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeDocumentMoniker": "Controllers\\CustomerController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\CustomerController.cs",
+              "RelativeToolTip": "Controllers\\CustomerController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxQAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:33:46.213Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ECommerceAPI.csproj",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\ECommerceAPI.csproj",
+              "RelativeDocumentMoniker": "ECommerceAPI.csproj",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\ECommerceAPI.csproj",
+              "RelativeToolTip": "ECommerceAPI.csproj",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000758|",
+              "WhenOpened": "2026-03-23T06:24:13.324Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "appsettings.json",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\appsettings.json",
+              "RelativeDocumentMoniker": "appsettings.json",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\appsettings.json",
+              "RelativeToolTip": "appsettings.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAA0AAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2026-03-23T06:30:30.015Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "ProductController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeDocumentMoniker": "Controllers\\ProductController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\ProductController.cs",
+              "RelativeToolTip": "Controllers\\ProductController.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAABoAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:33:16.352Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "OrderController.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeDocumentMoniker": "Controllers\\OrderController.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Controllers\\OrderController.cs",
+              "RelativeToolTip": "Controllers\\OrderController.cs",
+              "ViewState": "AgIAAAYAAAAAAAAAAADwvxEAAAAiAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:34:22.411Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "20260323064901_InitialCreate.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Migrations\\20260323064901_InitialCreate.cs",
+              "RelativeDocumentMoniker": "Migrations\\20260323064901_InitialCreate.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Migrations\\20260323064901_InitialCreate.cs",
+              "RelativeToolTip": "Migrations\\20260323064901_InitialCreate.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:49:02.017Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "AppDbContext.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Data\\AppDbContext.cs",
+              "RelativeDocumentMoniker": "Data\\AppDbContext.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Data\\AppDbContext.cs",
+              "RelativeToolTip": "Data\\AppDbContext.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAkAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:24:42.844Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
+              "Title": "Customer.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Customer.cs",
+              "RelativeDocumentMoniker": "Models\\Customer.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Customer.cs",
+              "RelativeToolTip": "Models\\Customer.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAuwAUAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:23:28.238Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 11,
+              "Title": "Product.cs",
+              "DocumentMoniker": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "Models\\Product.cs",
+              "ToolTip": "D:\\Capegemini_CU_Sec3_.NetwithAzzure_Priti\\Week-11-16mar-21mar_26\\Handson-45-20mar\\ECommerceAPI\\Models\\Product.cs",
+              "RelativeToolTip": "Models\\Product.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAwAAAABAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2026-03-23T06:23:03.723Z"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}

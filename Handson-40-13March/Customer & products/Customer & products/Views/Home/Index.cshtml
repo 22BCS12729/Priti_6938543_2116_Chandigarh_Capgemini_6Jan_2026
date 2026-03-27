@@ -1,0 +1,71 @@
+﻿<div class="container mt-4">
+
+    <div class="card shadow-lg">
+        <div class="card-header bg-dark text-white d-flex justify-content-between">
+            <h3>📦 Orders</h3>
+
+            <a asp-action="Create" class="btn btn-success">
+                + Place Order
+            </a>
+        </div>
+
+        <div class="card-body">
+
+            <table class="table table-hover table-bordered">
+
+                <thead class="table-primary">
+                    <tr>
+                        <th>Order ID</th>
+                        <th>Customer</th>
+                        <th>Product</th>
+                        <th>Quantity</th>
+                        <th>Total Price</th>
+                        <th>Actions</th>
+                    </tr>
+                </thead>
+
+                <tbody>
+
+                    @foreach (var item in Model)
+                    {
+                        <tr>
+
+                            <td>@item.Id</td>
+                            <td>@item.Customer.Name</td>
+                            <td>@item.Product.Name</td>
+                            <td>@item.Quantity</td>
+                            <td>₹ @item.TotalPrice</td>
+
+                            <td>
+
+                                <a asp-action="Edit"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-warning btn-sm">
+                                    ✏ Edit
+                                </a>
+
+                                <a asp-action="Details"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-info btn-sm text-white">
+                                    👁 Details
+                                </a>
+
+                                <a asp-action="Delete"
+                                       asp-route-id="@item.Id"
+                                       class="btn btn-danger btn-sm">
+                                    🗑 Delete
+                                </a>
+
+                            </td>
+
+                        </tr>
+                    }
+
+                </tbody>
+
+            </table>
+
+        </div>
+    </div>
+
+</div>

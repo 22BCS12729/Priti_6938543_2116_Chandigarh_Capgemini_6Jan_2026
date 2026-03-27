@@ -1,0 +1,22 @@
+﻿@model IEnumerable<WebAppDemo.Models.EmployeeModel>
+
+<h2>Employee List</h2>
+
+<table border="1">
+    <tr>
+        <th>ID</th>
+        <th>Name</th>
+        <th>Job</th>
+        <th>Salary</th>
+    </tr>
+
+    @foreach (var item in Model)
+    {
+        <tr>
+            <td>@item.EmployeeModelId</td>
+            <td>@item.EName</td>
+            <td>@item.Job</td>
+            <td>@item.Salary</td>
+        </tr>
+    }
+</table>

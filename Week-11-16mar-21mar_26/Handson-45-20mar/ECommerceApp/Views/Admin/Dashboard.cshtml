@@ -1,0 +1,85 @@
+﻿@model List<ECommerceApp.Models.Order>
+
+<h2 class="mb-4 fw-bold">📊 Admin Dashboard</h2>
+
+<!-- 🔥 ACTION BUTTONS -->
+<div class="mb-4">
+    <a href="/Product/Create" class="btn btn-primary">➕ Add Product</a>
+    <a href="/Category/Create" class="btn btn-success">➕ Add Category</a>
+    <a href="/Customer/Create" class="btn btn-warning">➕ Add Customer</a>
+    <a href="/Order/Create" class="btn btn-dark">➕ Create Order</a>
+</div>
+
+<!-- 🔥 DASHBOARD CARDS (CLICKABLE) -->
+<div class="row mb-4">
+
+    <div class="col-md-3">
+        <a href="/Product" style="text-decoration:none;">
+            <div class="card shadow bg-primary text-white p-3">
+                <h5>Products</h5>
+                <h2>@ViewBag.TotalProducts</h2>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Order" style="text-decoration:none;">
+            <div class="card shadow bg-success text-white p-3">
+                <h5>Orders</h5>
+                <h2>@ViewBag.TotalOrders</h2>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Customer" style="text-decoration:none;">
+            <div class="card shadow bg-warning text-dark p-3">
+                <h5>Customers</h5>
+                <h2>@ViewBag.TotalCustomers</h2>
+            </div>
+        </a>
+    </div>
+
+    <div class="col-md-3">
+        <a href="/Order" style="text-decoration:none;">
+            <div class="card shadow bg-danger text-white p-3">
+                <h5>Pending</h5>
+                <h2>@ViewBag.PendingOrders</h2>
+            </div>
+        </a>
+    </div>
+
+</div>
+
+<!-- 🔥 LATEST ORDERS TABLE -->
+<div class="card shadow">
+    <div class="card-header bg-dark text-white">
+        Latest Orders
+    </div>
+
+    <div class="card-body">
+
+        <table class="table table-hover table-bordered">
+            <thead class="table-dark">
+                <tr>
+                    <th>Order ID</th>
+                    <th>Customer</th>
+                    <th>Date</th>
+                </tr>
+            </thead>
+
+            <tbody>
+                @foreach (var order in Model)
+                {
+                    <tr>
+                        <td>@order.Id</td>
+                        <td>@order.Customer?.Name</td>
+                        <td>@order.OrderDate.ToShortDateString()</td>
+                    </tr>
+                }
+            </tbody>
+
+        </table>
+
+    </div>
+</div>

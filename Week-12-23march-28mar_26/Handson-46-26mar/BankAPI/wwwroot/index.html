@@ -1,0 +1,120 @@
+﻿<!DOCTYPE html>
+<html>
+<head>
+    <title>Bank Dashboard</title>
+    <style>
+        body {
+            font-family: Arial;
+            text-align: center;
+            margin-top: 50px;
+        }
+
+        button {
+            padding: 10px 20px;
+            font-size: 16px;
+            margin: 5px;
+            background-color: #4CAF50;
+            color: white;
+            border: none;
+            cursor: pointer;
+        }
+
+        input {
+            padding: 8px;
+            margin: 5px;
+        }
+
+        #result {
+            margin-top: 20px;
+            font-size: 18px;
+        }
+
+        .error {
+            color: red;
+        }
+
+        .success {
+            color: green;
+        }
+    </style>
+</head>
+<body>
+
+    <h1>🏦 Bank Dashboard</h1>
+
+    <!-- Input Form -->
+    <input type="text" id="name" placeholder="Enter Name" />
+    <input type="text" id="accNumber" placeholder="Enter Account Number" />
+
+    <br />
+
+    <!-- Buttons -->
+    <button onclick="createAccount()">Create Account</button>
+    <button onclick="getAccounts()">View Accounts</button>
+
+    <div id="result"></div>
+
+    <script>
+        // ✅ CREATE ACCOUNT
+        async function createAccount() {
+            const name = document.getElementById("name").value;
+            const accNumber = document.getElementById("accNumber").value;
+
+            if (!name || !accNumber) {
+                document.getElementById("result").innerHTML =
+                    "<p class='error'>Please enter all fields</p>";
+                return;
+            }
+
+            const response = await fetch('/api/account', {
+                method: 'POST',
+                headers: { 'Content-Type': 'application/json' },
+                body: JSON.stringify({
+                    accountHolderName: name,
+                    accountNumber: accNumber
+                })
+            });
+
+            if (response.ok) {
+                document.getElementById("result").innerHTML =
+                    "<p class='success'>Account Created Successfully!</p>";
+
+                // Clear inputs
+                document.getElementById("name").value = "";
+                document.getElementById("accNumber").value = "";
+            } else {
+                document.getElementById("result").innerHTML =
+                    "<p class='error'>Error creating account</p>";
+            }
+        }
+
+        // ✅ GET ALL ACCOUNTS
+        async function getAccounts() {
+            const response = await fetch('/api/account');
+
+            if (!response.ok) {
+                document.getElementById("result").innerHTML =
+                    "<p class='error'>Error fetching data</p>";
+                return;
+            }
+
+            const data = await response.json();
+
+            if (data.length === 0) {
+                document.getElementById("result").innerHTML =
+                    "<p>No accounts found</p>";
+                return;
+            }
+
+            let output = "<h3>Accounts:</h3>";
+
+            data.forEach(acc => {
+                output += `<p>👤 ${acc.accountHolderName} | 💳 ${acc.maskedAccountNumber}</p>`;
+            });
+
+            document.getElementById("result").innerHTML = output;
+        }
+    </script>
+
+</body>
+</html>

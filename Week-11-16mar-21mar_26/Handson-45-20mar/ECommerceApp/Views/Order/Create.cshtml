@@ -1,0 +1,42 @@
+﻿@model ECommerceApp.Models.Order
+
+<h2 class="mb-4 fw-bold">📦 Create Order</h2>
+
+<div class="card shadow p-4">
+
+    <form asp-action="Create" method="post">
+
+        <!-- 🔥 VALIDATION -->
+        <div asp-validation-summary="All" class="text-danger mb-3"></div>
+
+        <!-- CUSTOMER -->
+        <div class="mb-3">
+            <label class="form-label fw-bold">Select Customer</label>
+
+            <select asp-for="CustomerId" class="form-select"
+                    asp-items="@(new SelectList(ViewBag.Customers, "Id", "Name"))">
+                <option value="">-- Select Customer --</option>
+            </select>
+
+            <span asp-validation-for="CustomerId" class="text-danger"></span>
+        </div>
+
+        <!-- DATE -->
+        <div class="mb-3">
+            <label class="form-label fw-bold">Order Date</label>
+            <input asp-for="OrderDate" type="date" class="form-control" />
+        </div>
+
+        <!-- BUTTONS -->
+        <div class="d-flex gap-2">
+            <button type="submit" class="btn btn-dark px-4">Create Order</button>
+            <a href="/Order" class="btn btn-secondary px-4">Back</a>
+        </div>
+
+    </form>
+
+</div>
+
+@section Scripts {
+    <partial name="_ValidationScriptsPartial" />
+}

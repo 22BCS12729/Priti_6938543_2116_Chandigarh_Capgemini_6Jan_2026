@@ -1,0 +1,27 @@
+﻿@model IEnumerable<ECommerceApp.Models.Customer>
+
+<h2 class="mb-4 fw-bold">👥 Customers</h2>
+
+<a href="/Customer/Create" class="btn btn-warning mb-3">➕ Add Customer</a>
+
+<div class="row">
+
+    @foreach (var item in Model)
+    {
+        <div class="col-md-4 mb-4">
+            <div class="card shadow h-100">
+
+                <div class="card-body">
+                    <h5 class="card-title">@item.Name</h5>
+
+                    <p class="card-text">
+                        📧 @item.Email <br />
+                        📞 @item.Phone
+                    </p>
+                </div>
+
+            </div>
+        </div>
+    }
+
+</div>

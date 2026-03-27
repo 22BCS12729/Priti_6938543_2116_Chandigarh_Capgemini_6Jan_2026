@@ -1,0 +1,6 @@
+2026-03-27 11:52:40,007 INFO  OrderApi.Services.OrderService - Order creation started
+2026-03-27 11:52:40,164 INFO  OrderApi.Services.OrderService - Order created successfully
+2026-03-27 15:57:54,825 INFO  OrderApi.Services.OrderService - Order creation started
+2026-03-27 15:57:54,942 INFO  OrderApi.Services.OrderService - Order created successfully
+2026-03-27 16:02:48,980 INFO  OrderApi.Services.OrderService - Order creation started
+2026-03-27 16:02:49,096 INFO  OrderApi.Services.OrderService - Order created successfully
